@@ -15,4 +15,4 @@ obtain. Limited to the capital only, cannot be sold, and is destroyed when the c
 
 ## Credits:
 Icon(s) from [icooon mono](https://icooon-mono.com/)<br>
-Mod inspired by [paontv's "Difficulty_Sandbox"](https://github.com/paontv/Difficulty_Sandbox/)
+Mod inspired by [paontv's "Difficulty_Sandbox"](https://github.com/paontv/Difficulty_Sandbox/), specifically the buildings
