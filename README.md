@@ -13,6 +13,13 @@ large quantities, as well as some unit promotions that are otherwise exclusive o
 obtain. Limited to the capital only, cannot be sold, and is destroyed when the capital falls 
 (which means you lose the cheat, so better secure the capital).<br>
 
+## Features planned to be added soon™:
+- additional hax building specifically for faith & great prophets
+- "weaker version" of unhax mode for other cities
+- probably more to add on unhax mode itself
+- ???
+
+
 ## Credits:
 Icon(s) from [icooon mono](https://icooon-mono.com/)<br>
 Mod inspired by [paontv's "Difficulty_Sandbox"](https://github.com/paontv/Difficulty_Sandbox/), specifically the buildings
