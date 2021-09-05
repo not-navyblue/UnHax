@@ -10,7 +10,7 @@
 		"production": 420,
 		"faith": 777,
 		"happiness": 690,
-		"greatPersonPoints": {"Great Artist": 69, "Great Engineer": 69, "Great Merchant": 69, "Great Prophet": 69, "Great Scientist": 69},
+		"greatPersonPoints": {"Great Artist": 69, "Great Engineer": 69, "Great Merchant": 69, "Great Scientist": 69},
 		"uniques": ["[2] free [Settler] units appear", "New [Military Units] start with [42000] Experience [in this city]", "All newly-trained [Military] units [in this city] receive the [Morale] promotion", "All newly-trained [Military] units [in this city] receive the [Rejuvenation] promotion", "Gain enough Faith for a Pantheon", "Reveals the entire map", "Destroyed when the city is captured", "Can only be built [in capital]", "Triggers a global alert upon completion", "Unsellable"],
 		"cost": 69696969420,
 		"hurryCostModifier": 420,
