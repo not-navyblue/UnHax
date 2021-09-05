@@ -1,0 +1,13 @@
+
+game.png
+size: 512, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/UnHax Mode
+  rotate: false
+  xy: 4, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
