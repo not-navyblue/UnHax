@@ -4,7 +4,7 @@ No "Sandbox" difficulty or overpowered nations included. How you're gonna get th
 (No, it's not using a different mod linked below, by the way, but it still works anyways. Hint: Social policy.)<br>
 
 Fair warning: Use at your own risk as this mod *can* ruin your experience.<br>
-If it did, then... what did you expect? It's a cheat mod, after all. 
+If it did, then... what did you expect? It's a cheat mod, after all.<br> 
 
 
 ## What the mod contains:
