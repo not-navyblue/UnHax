@@ -38,7 +38,7 @@ building is already built in the capital city and when religion is enabled.<br>
 
 ## Features planned to be added soon™:
 - <s>additional hax building specifically for faith & great prophets</s> (Added in v1.1)
-- "weaker version" of unhax mode for other cities
+- <s>"weaker version" of unhax mode for other cities</s> (Added as part of **Base** in v1.1)
 - unhax-exclusive unit promotions
 - probably more to add on unhax mode itself (continuous?)
 - ???
