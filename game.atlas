@@ -1,12 +1,19 @@
 
 game.png
-size: 512, 512
+size: 1024, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/UnHax Mode
+BuildingIcons/UnHax Mode - Base
   rotate: false
   xy: 4, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingIcons/UnHax Mode - Religion
+  rotate: false
+  xy: 268, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
