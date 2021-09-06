@@ -1,9 +1,10 @@
 # UnHax
 A "slightly compact" but overpowered cheat mod for UnCiv. Really, that's it.<br>
 No "Sandbox" difficulty or overpowered nations included. How you're gonna get the cheat is all up to you to figure it out.
-(No, it's not using a different mod linked below, btw, but it still works anyways. The solution is extremely simple, really.)<br>
+(No, it's not using a different mod linked below, by the way, but it still works anyways. Hint: Social policy.)<br>
 
-Fair warning: Use at your own risk as this mod *can* ruin your experience. It is, after all, a cheat mod.
+Fair warning: Use at your own risk as this mod *can* ruin your experience.<br>
+If it did, then... what did you expect? It's a cheat mod, after all. 
 
 
 ## What the mod contains:
