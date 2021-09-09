@@ -1,19 +1,68 @@
 
 game.png
-size: 1024, 512
+size: 1024, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/UnHax Mode - Base
   rotate: false
-  xy: 4, 4
+  xy: 268, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingIcons/UnHax Mode - Military+
+  rotate: false
+  xy: 532, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 BuildingIcons/UnHax Mode - Religion
   rotate: false
-  xy: 268, 4
+  xy: 532, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Air Superiority
+  rotate: false
+  xy: 4, 532
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Better Wayfinding
+  rotate: false
+  xy: 4, 268
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Brilliant Detonation
+  rotate: false
+  xy: 268, 532
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Enhanced Vision
+  rotate: false
+  xy: 4, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Improved Radar
+  rotate: false
+  xy: 268, 268
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Mastery of War
+  rotate: false
+  xy: 532, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0

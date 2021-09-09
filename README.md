@@ -12,38 +12,35 @@ If it did, then... what did you expect? It's a cheat mod, after all lol
 **UnHax Mode - Base**: an "*almost* one-size-fits-all" building that includes many 
 things such as gold, food, culture, science, production, happiness, unit XP, and 
 great person points (except Great General and Great Prophet), all in large quantities, 
-as well as some unit promotions that are otherwise exclusive or difficult to obtain, 
-and the ability to reveal the entire map early on. Limited to the capital city only, 
-cannot be sold, and is destroyed when the capital falls.<br>
+as well as some unit promotions that are otherwise exclusive or difficult to obtain. 
+Limited to the capital city only, cannot be sold, and is destroyed when the capital falls.<br> (Added in v1.0)
 
 **UnHax Mode - Religion**: a building made specifically for religion-enabled games, generating 
-Faith and Great Prophet points at large quantities, and allows for immediate founding of Pantheons. 
-It has similar limitations as the **Base** building, and it is only buildable when the **Base** 
-building is already built in the capital city and when religion is enabled.<br>
+Faith <s>and Great Prophet points</s> at large quantities, and allows for immediate founding of Pantheons. 
+It has similar limitations as the **Base** building, and it is buildable in the capital only when the **Base** 
+building is already built in the capital city and when religion is enabled.<br> (Added in v1.1)
+
+**UnHax Mode - Military+**: a military-oriented building that provides free unit promotions not 
+provided (or previously provided) by **Base**, increased city strength and city health, and others. Like **Religion**, 
+it has similar limitations as the **Base** building, with an extra caveat of being unbuildable, but unlike the 
+first two buildings, it can be built on all cities by buying it with Gold once the **Base** building has 
+been built in the capital.<br> (Added in v1.2)
 
 ## Changelog:
-### v1.1
-*I might have gone overboard making this update, but it's a cheat mod anyways, so...*
-- Renamed **UnHax Mode** to **UnHax Mode - Base**
-- Added **UnHax Mode - Religion**, which is available only when religion is enabled
-- Added free **Great General I** promotion for all new military units on **Base**
-- Removed Faith generation and immediate Pantheon founding on **Base**; **Religion** handles those now
-- Unit XP and free promotions now apply for new military units *in all cities*, not just the capital city
-- Increases in all seven stats now apply *in all cities*, with the capital gaining double the increase (except Gold)
-- Reduced **Base** maintenance cost from 69420 to 4200 <s>(nice)</s>
-- Increased great person points generation from 69 <s>(also nice)</s> to 77 <s>(not nice)</s>
-- Increased Production provided by **Base** from 420 to 690 <s>(triply nice)</s>
-
-### v1.0
-- Initial Release
+*See [CHANGELOG.md](https://github.com/navyblue44/UnHax/blob/main/CHANGELOG.md).*
 
 ## Features planned to be added soon™:
 - <s>additional hax building specifically for faith & great prophets</s> (Added in v1.1)
 - <s>"weaker version" of unhax mode for other cities</s> (Added as part of **Base** in v1.1)
-- unhax-exclusive unit promotions
+- unhax-exclusive unit promotions (Added in v1.2; more to come, probably)
 - probably more to add on unhax mode itself (continuous?)
 - ???
 
 ## Credits:
-Icon(s) from [icooon mono](https://icooon-mono.com/)<br>
-Mod inspired by [paontv's "Difficulty_Sandbox"](https://github.com/paontv/Difficulty_Sandbox/), specifically the buildings
+### Icons:
+- **Base**, **Religion**, **Military+**, **Master of War**, and **Air Superiority** icons from [icooon mono](https://icooon-mono.com/)
+- **Brilliant Detonation**, **Enhanced Vision**, and **Better Wayfinding** icons by [Freepik](https://www.freepik.com) via [Flaticon](https://www.flaticon.com/authors/freepik)
+- **Improved Radar** icon by [Eucalyp](https://creativemarket.com/eucalyp) via [Flaticon](https://www.flaticon.com/authors/eucalyp)
+
+### Others:
+- Mod inspired by [paontv's "Difficulty_Sandbox"](https://github.com/paontv/Difficulty_Sandbox/), specifically the buildings

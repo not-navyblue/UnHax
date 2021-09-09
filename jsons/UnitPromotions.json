@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Mastery of War",
+		"uniques": ["+[110]% Strength when attacking", "+[150]% Strength when defending", 
+			"Heals [100] damage if it kills a unit", "[1] additional attacks per turn"]
+	},
+	
+	{
+		"name": "Air Superiority",
+		"uniques": ["+[110]% Strength when attacking", "Damage taken from interception reduced by [175]%",
+			"Heals [100] damage if it kills a unit", "[1] additional attacks per turn"]
+	},
+	
+	{
+		"name": "Enhanced Vision",
+		"uniques": ["[+7 Visibility Range]", "[+2] Movement"]
+	},
+	
+	{
+		"name": "Better Wayfinding",
+		"uniques": ["[+8 Visibility Range]", "[+1] Movement"]
+	}
+	
+	{
+		"name": "Improved Radar", 
+		"uniques": ["[+9 Visibility Range], "[+3] Range"]
+	}
+	
+	{
+		"name": "Brilliant Detonation",
+		"uniques": ["+[350]% Strength when attacking", "[+5] Range", 
+			"[+10] Visibility Range", "[Great General] is earned [75]% faster"],
+	}
+]
