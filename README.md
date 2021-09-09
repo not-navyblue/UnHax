@@ -13,18 +13,18 @@ If it did, then... what did you expect? It's a cheat mod, after all lol
 things such as gold, food, culture, science, production, happiness, unit XP, and 
 great person points (except Great General and Great Prophet), all in large quantities, 
 as well as some unit promotions that are otherwise exclusive or difficult to obtain. 
-Limited to the capital city only, cannot be sold, and is destroyed when the capital falls.<br> (Added in v1.0)
+Limited to the capital city only, cannot be sold, and is destroyed when the capital falls. (Added in v1.0)<br>
 
 **UnHax Mode - Religion**: a building made specifically for religion-enabled games, generating 
 Faith <s>and Great Prophet points</s> at large quantities, and allows for immediate founding of Pantheons. 
 It has similar limitations as the **Base** building, and it is buildable in the capital only when the **Base** 
-building is already built in the capital city and when religion is enabled.<br> (Added in v1.1)
+building is already built in the capital city and when religion is enabled. (Added in v1.1)<br>
 
 **UnHax Mode - Military+**: a military-oriented building that provides free unit promotions not 
 provided (or previously provided) by **Base**, increased city strength and city health, and others. Like **Religion**, 
 it has similar limitations as the **Base** building, with an extra caveat of being unbuildable, but unlike the 
 first two buildings, it can be built on all cities by buying it with Gold once the **Base** building has 
-been built in the capital.<br> (Added in v1.2)
+been built in the capital. (Added in v1.2)<br>
 
 ## Changelog:
 *See [CHANGELOG.md](https://github.com/navyblue44/UnHax/blob/main/CHANGELOG.md).*
