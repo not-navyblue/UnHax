@@ -26,6 +26,10 @@ it has similar limitations as the **Base** building, with an extra caveat of bei
 first two buildings, it can be built on all cities by buying it with Gold once the **Base** building has 
 been built in the capital. (Added in v1.2)<br>
 
+**UnHax Mode - Enhancement**: a building with assorted bonuses to build on the already plentiful additions provided by 
+**Base** and **Military+**. It shares multiple limitations with the **Military+** building, but it can be bought in 
+the capital only when **Base** is built in the capital city. (Added in v1.3)<br>
+
 ## Changelog:
 *See [CHANGELOG.md](https://github.com/navyblue44/UnHax/blob/main/CHANGELOG.md).*
 
@@ -38,7 +42,7 @@ been built in the capital. (Added in v1.2)<br>
 
 ## Credits:
 ### Icons:
-- **Base**, **Religion**, **Military+**, **Master of War**, and **Air Superiority** icons from [icooon mono](https://icooon-mono.com/)
+- **Base**, **Religion**, **Military+**, **Enhancement**, **Master of War**, **Air Superiority**, and **Civilian Assistance** icons from [icooon mono](https://icooon-mono.com/)
 - **Brilliant Detonation**, **Enhanced Vision**, and **Better Wayfinding** icons by [Freepik](https://www.freepik.com) via [Flaticon](https://www.flaticon.com/authors/freepik)
 - **Improved Radar** icon by [Eucalyp](https://creativemarket.com/eucalyp) via [Flaticon](https://www.flaticon.com/authors/eucalyp)
 
