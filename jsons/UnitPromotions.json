@@ -34,20 +34,21 @@
 	{
 		"name": "Better Wayfinding",
 		"uniques": [
-			"[+3] Visibility Range",
+			"[+4] Visibility Range",
 			"[+1] Movement"
 		]
 	},
 	{
 		"name": "Improved Radar",
 		"uniques": [
-			"[+6] Range"
+			"[+4] Range"
 		]
 	},
 	{
 		"name": "Brilliant Detonation",
 		"uniques": [
 			"+[365]% Strength when attacking",
+			"Damage taken from interception reduced by [90]%",
 			"[+5] Range",
 			"[Great General] is earned [80]% faster"
 		]

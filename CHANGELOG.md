@@ -1,7 +1,23 @@
 # UnHax Changelog
+## v1.4
+*don't you just hate it when you run out of ideas and leave the mod hanging for some time*
+### Major Changes
+- New units can now move immediately after getting bought once **Enhancement** has been built
+- All enemy Military units can now be captured when killed once **Enhancement** (instead of **Military+**) has been built
+### Minor Changes
+- Damage taken from interception is now reduced by 90% with **Brilliant Detonation** to accommodate for the Atomic Bombers
+- Increased capital-only and universal Faith generation from 360 and 180 to 540 and 270, respectively
+- Increased **Enhancement**'s universal percent increase for Food, Gold, Culture, Science, and Production from 75% to 90%
+- Increased **Better Wayfinding**'s visibility range bonus from 3 to 4
+- Reduced **Improved Radar**'s range bonus from 6 to 4
+### Bugfixes
+- Fixed naval Military units not gaining the **Better Wayfinding** promotion when **Military+** exists in the city they came from
+- Fixed missile units gaining the **Rejuvenation** promotion which is not supposed to happen
+### Removed Features
+- Atomic Bombers can no longer gain multiple promotions except **Rejuvenation** and **Brilliant Detonation**
+
 ## v1.3
-*mod not op enough*, <s>*pls buff*</s>
-*also how is this the first update with the first bugfix*
+*mod not op enough*, <s>*pls buff*</s> *also how is this the first update with the first bugfix*
 ### Major Changes
 - Added **UnHax Mode - Enhancement**, which provides many assorted bonuses
 - Added a civilian-only unit promotion, which can be obtained by new units when **Base** is built
