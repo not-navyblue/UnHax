@@ -1,5 +1,5 @@
 # UnHax
-A "slightly compact" but overpowered cheat mod for UnCiv. Really, that's it.<br>
+An overpowered, building-based cheat mod for UnCiv. Really, that's it.<br>
 No "Sandbox" difficulty or overpowered nations included. How you're gonna get the cheat is all up to you to figure it out.
 (No, it's not using a different mod linked below, by the way, but it still works anyways. Hint: "Tradition" social policy.)<br>
 
