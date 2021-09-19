@@ -9,8 +9,8 @@ If it did, then... what did you expect? It's a cheat mod, after all lol
 ### Quick Notice:
 As of v1.5, the building has been renamed from "**UnHax Mode - Military+**" to "**UnHax Mode - Military**". To maintain 
 compatibility for versions from v1.2 to v1.4, both buildings will have to remain for now, but **Military+** is unobtainable 
-by any means, is no longer updated, and can be sold. Players must sell their **Military+** buildings and replace them with 
-**Military** buildings before this makeshift compatibility patch gets removed in a future update.
+by any means, is no longer updated, and can be sold. If playing an existing save, players must sell their **Military+** buildings 
+and replace them with **Military** buildings before this makeshift compatibility patch gets removed in a future update.
 
 ## What the mod contains:
 ### Buildings:
