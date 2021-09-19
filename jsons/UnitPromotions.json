@@ -3,24 +3,32 @@
 		"name": "Mastery of War",
 		"uniques": [
 			"+[110]% Strength when attacking",
-			"+[150]% Strength when defending",
-			"Heals [60] damage if it kills an Unit",
-			"[1] additional attacks per turn"
+			"+[130]% Strength when defending",
+			"[1] additional attacks per turn",
+			"Ignores Zone of Control"
 		]
 	},
 	{
 		"name": "Air Superiority",
 		"uniques": [
 			"+[110]% Strength when attacking",
-			"Damage taken from interception reduced by [175]%",
-			"Heals [60] damage if it kills an Unit",
+			"Damage taken from interception reduced by [90]%",
 			"[1] additional attacks per turn"
+		]
+	},
+	{
+		"name": "Panacea's Gift",
+		"uniques": [
+			"Heals [40] damage if it kills an Unit",
+			"May heal outside of friendly territory",
+			"Unit will heal every turn, even if it performs an action",
+			"All healing effects doubled"
 		]
 	},
 	{
 		"name": "Civilian Assistance",
 		"uniques": [
-			"All adjacent units heal [150] extra HP when healing",
+			"All adjacent units heal [60] extra HP when healing",
 			"Bonus for units in 2 tile radius 15%"
 		]
 	},

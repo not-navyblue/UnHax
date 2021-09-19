@@ -1,5 +1,34 @@
 # UnHax Changelog
-## v1.4
+## v1.5 (September 19, 2021 Update)
+*7 days has passed, but such many changes were done in only 2 days lol*<br>
+### Major Changes
+- **UnHax Mode - Military+** is now renamed as simply **UnHax Mode - Military**
+- **Religion** can no longer be built normally; it must be bought in capital like **Military** and **Enhancement**
+- **Mastery of War** promotion now allows non-air units to ignore the Zone of Control
+- Added a new promotion, **Panacea's Gift**, which is available only on **Military** (not the deprecated **Military+**)
+- **Enhancement** now gives a 60% increase of Faith generation in all cities
+- **Base** now adds 4 slots for all Specialists
+### Minor Changes
+- Healing uniques provided by **Mastery of War** and **Air Superiority** are transferred to **Panacea's Gift**
+- Increased city health and city strength with **Military** from 360 & 3600 to 365 & 3625
+- Increased capital city Gold generation from 6669420 to 6969420
+- Increased empire-wide Gold generation from 777 to 1234
+- Increased Culture generation from 420 to 690
+- Increased great person points generation from 40 to 45
+- Increased Faith generation from 540 & 270 to 650 and 325, respectively
+- Increased percentage of additional XP gain from 100% to 150%
+- Decreased percentage of reduced Faith cost for civilian units from -50% to -69% (this is a buff, decreasing values is how buffing negatives work)
+- Amount of damage healed with **Panacea's Gift** promotion is reduced from 60 to 40 whenever a Military Unit kills an enemy Unit
+- The amount of HP healed for any unit when adjacent to a Civilian unit with the **Civilian Assistance** promotion is reduced from 150 to 60
+- Reduced the percentage of damage reduction when intercepted with **Air Superiority** promotion from 175% to 100%
+- Reduced the percentage of additional Strength when defending with **Mastery of War** promotion from 150% to 130%
+- <s>major changes in .md files yet again, i guess it's always gonna happen at this point lol</s>
+### Removed Features
+- **Base** no longer "provides" the bonus of using 1 movement point to dis/embark (it never worked anyways)
+- **Base** no longer provides the **Rejuvenation** promotion for non-Missile Military units (replaced with **Panacea's Gift**)
+- Atomic Bombers no longer gain the **Rejuvenation** promotion
+
+## v1.4 (September 12, 2021 Update)
 *don't you just hate it when you run out of ideas and leave the mod hanging for some time*
 ### Major Changes
 - New units can now move immediately after getting bought once **Enhancement** has been built
@@ -16,7 +45,7 @@
 ### Removed Features
 - Atomic Bombers can no longer gain multiple promotions except **Rejuvenation** and **Brilliant Detonation**
 
-## v1.3
+## v1.3 (September 10, 2021 Update)
 *mod not op enough*, <s>*pls buff*</s> *also how is this the first update with the first bugfix*
 ### Major Changes
 - Added **UnHax Mode - Enhancement**, which provides many assorted bonuses
@@ -38,7 +67,7 @@
 ### Removed Features
 - **Improved Radar** and **Brilliant Detonation** no longer provide visibility range bonuses (it was useless)
 
-## v1.2
+## v1.2 (September 9, 2021 Update)
 *mod too op,* <s>*pls nerf*</s>
 ### Major Changes
 - Added **UnHax Mode - Military+**, which can be bought in cities connected to the capital
@@ -56,8 +85,9 @@
 - Missiles no longer gain the **Morale** and **Great Generals I & II** promotions
 - **Religion** no longer generates Great Prophet points (it is somehow unnecessary)
 
-## v1.1
-*I might have gone overboard making this update, but it's a cheat mod anyways, so...*
+## v1.1 (September 6, 2021 Update)
+*I might have gone overboard making this update, but it's a cheat mod anyways, so...*<br>
+**Warning: Incompatible with games that use UnHax v1.0**
 ### Major Changes
 - Renamed **UnHax Mode** to **UnHax Mode - Base** (referred to as **Base** in this changelog)
 - Added **UnHax Mode - Religion** (referred to as **Religion**), which is available only when religion is enabled
@@ -71,7 +101,7 @@
 - Increased Production provided by **Base** from 420 to 690 <s>(triply nice)</s>
 
 
-## v1.0
+## v1.0 (September 5, 2021 Update)
 *Initial Release*
 ### Major Changes
 - Added **UnHax Mode**

@@ -6,78 +6,99 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/UnHax Mode - Base
   rotate: false
-  xy: 532, 268
+  xy: 1240, 448
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 BuildingIcons/UnHax Mode - Enhancement
   rotate: false
-  xy: 796, 532
+  xy: 1504, 712
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingIcons/UnHax Mode - Military
+  rotate: false
+  xy: 1504, 448
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 BuildingIcons/UnHax Mode - Military+
   rotate: false
-  xy: 532, 4
+  xy: 1504, 448
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingIcons/UnHax Mode - Recruitment
+  rotate: false
+  xy: 1768, 712
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 BuildingIcons/UnHax Mode - Religion
   rotate: false
-  xy: 796, 268
+  xy: 1768, 448
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Air Superiority
   rotate: false
-  xy: 4, 532
+  xy: 4, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Better Wayfinding
   rotate: false
-  xy: 4, 268
+  xy: 712, 712
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Brilliant Detonation
   rotate: false
-  xy: 268, 532
+  xy: 268, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Civilian Assistance
   rotate: false
-  xy: 4, 4
+  xy: 712, 448
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Enhanced Vision
   rotate: false
-  xy: 268, 268
+  xy: 976, 712
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Improved Radar
   rotate: false
-  xy: 532, 532
+  xy: 976, 448
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Mastery of War
   rotate: false
-  xy: 268, 4
+  xy: 1240, 712
   size: 256, 256
   orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Panacea's Gift
+  rotate: false
+  xy: 4, 268
+  size: 700, 700
+  orig: 700, 700
   offset: 0, 0
   index: -1
