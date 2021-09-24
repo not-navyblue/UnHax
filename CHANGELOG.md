@@ -1,4 +1,11 @@
 # UnHax Changelog
+## v1.5.1 (September 24, 2021 Update)
+*smallest number of changes ever; a stark contrast to v1.5*
+### Minor Changes
+- Doubled the specialist slots provided by **Base** (now 8 instead of 4)
+### Bugfixes
+- Fixed **Base** providing the deprecated **Military+** instead of **Military**. Oops.
+
 ## v1.5 (September 19, 2021 Update)
 *7 days has passed, but such many changes were done in only 2 days lol*<br>
 ### Major Changes
