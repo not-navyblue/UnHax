@@ -14,10 +14,10 @@
 			"Great Scientist": 45
 		},
 		"specialistSlots": {
-			"Scientist": 4,
-			"Artist": 4,
-			"Merchant": 4,
-			"Engineer": 4,
+			"Scientist": 8,
+			"Artist": 8,
+			"Merchant": 8,
+			"Engineer": 8,
 		},
 		"uniques": [
 			"[2] free [Settler] units appear",
@@ -32,7 +32,7 @@
 			"May buy [UnHax Mode - Enhancement] buildings for [420000000] [Gold] [in this city]",
 			"New [Military] units start with [69000] Experience [in all cities]",
 			"Units fight as though they were at full strength even when damaged",
-			"Immediately creates a [UnHax Mode - Military+] in each of your first [1] cities for free",
+			"Immediately creates a [UnHax Mode - Military] in each of your first [1] cities for free",
 			"All newly-trained [{Land} {Civilian}] units [in all cities] receive the [Civilian Assistance] promotion",
 			"[{Land} {Civilian}] units gain the [Civilian Assistance] promotion",
 			"Destroyed when the city is captured",
