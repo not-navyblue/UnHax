@@ -1,4 +1,27 @@
 # UnHax Changelog
+## v1.6 (September 28, 2021 Update)
+*playing with unit promotions*
+### Major Changes
+- **Enhanced Vision** now bypasses land units' embarked vision limitation and allows units to ignore terrain cost
+- **Better Wayfinding** now allows naval Military units to spot invisible Submarine units
+- **Base** now provides **Enhanced Vision** to land-based Civilian units
+- **Enhancement** now provides **Quick Study** to all non-Missile Military Units (except Atomic Bomber)
+- **Military** now provides **Haka War Dance** to all newly-trained non-air Military units of the city the building is built on
+- All Civilian units now gain **Civilian Assistance** (taking account for RekMOD's, and in vanilla in the future, Great Admiral unit)
+- **Base** now gives Gold equivalent to 10 times the capital-only Gold production upon completion (not retroactive; works only on newer saves)
+- Tile yields from Natural Wonders are now doubled with **Enhancement**
+### Re-added Features
+- Re-added **Base**'s free **Rejuvenation** promotion for most Military units (**Panacea's Gift** still stays)
+- **Enhancement** now reveals the entire map (before it was removed in v1.2, **Base** revealed the whole map)
+### Minor Changes
+- **Base** now provides **Military** for your first 4 cities for free (from just the capital only)
+- Increased **Base**'s capital-only Gold generation from 6969420 to 7769420
+- Increased **Base**'s empire-wide Gold generation from 1234 to 4200
+- Increased **Military**'s city health increase from 3625 to 3650 and additional Experience increase from 175% to 200%
+- Increased **Enhancement**'s empire-wide Faith generation from 60% to 75%
+### Removed Features
+- Eligible Military units not trained in cities with **Military** no longer gain **Panacea's Gift**
+
 ## v1.5.1 (September 24, 2021 Update)
 *smallest number of changes ever; a stark contrast to v1.5*
 ### Minor Changes

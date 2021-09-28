@@ -36,14 +36,17 @@
 		"name": "Enhanced Vision",
 		"uniques": [
 			"[+2] Visibility Range",
-			"[+2] Movement"
+			"[+2] Movement",
+			"Normal vision when embarked",
+			"Ignores terrain cost"
 		]
 	},
 	{
 		"name": "Better Wayfinding",
 		"uniques": [
 			"[+4] Visibility Range",
-			"[+1] Movement"
+			"[+1] Movement",
+			"Can see invisible [Submarine] units"
 		]
 	},
 	{

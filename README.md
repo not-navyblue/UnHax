@@ -20,9 +20,9 @@ quantities, as well as some unit promotions that are otherwise exclusive or diff
 Limited to the capital city only, cannot be sold, and is destroyed when the capital falls. (Added in v1.0; renamed in v1.1)<br>
 
 **UnHax Mode - Religion**: a building made specifically for religion-enabled games, generating 
-Faith <s>and Great Prophet points</s> at large quantities, and allows for immediate founding of Pantheons. 
-It has similar limitations as the **Base** building, with an extra caveat of being unbuildable, but can be 
-bought in the capital city once **Base** has been built. (Added in v1.1; method of acquisition changed in v1.5)<br>
+Faith at large quantities, and allows for immediate founding of Pantheons. It has similar limitations as the **Base** building, 
+with an extra caveat of being unbuildable, but can be bought in the capital city once **Base** has been built. 
+(Added in v1.1; method of acquisition changed in v1.5)<br>
 
 **UnHax Mode - Military**: a military-oriented building that provides free unit promotions not 
 provided (or previously provided) by **Base**, increased city strength and city health, and others. It has similar 
@@ -50,7 +50,7 @@ Ignores Zone of Control (**Mastery of War**) (Added in v1.2)<br>
 performs an action, All healing effects doubled (Added in v1.5)<br>
 
 ## Changelog:
-*See [CHANGELOG.md](https://github.com/navyblue44/UnHax/blob/main/CHANGELOG.md).*
+*See [CHANGELOG.md](https://github.com/not-navyblue/UnHax/blob/main/CHANGELOG.md).*
 
 ## Features planned to be added soon™:
 - unhax-exclusive unit promotions (Added in v1.2 - v1.5; more to come, probably)
