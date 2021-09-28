@@ -30,7 +30,7 @@ limitations as the **Religion** building, but unlike the first two buildings, it
 buying it with Gold once the **Base** building has been built in the capital. (Added in v1.2; renamed in v1.5)<br>
 
 **UnHax Mode - Enhancement**: a building with assorted bonuses to build on the already plentiful additions provided by 
-**Base** and **Military+**. It shares multiple limitations and mode of acquisition with the **Religion** building, 
+**Base** and **Military**. It shares multiple limitations and mode of acquisition with the **Religion** building, 
 sans the requirement of the "Enable Religion" option. (Added in v1.3)<br>
 
 ### Unit Promotions:
