@@ -1,5 +1,5 @@
 # UnHax Changelog
-## v1.7 (October 2, 2021 Update)
+## v1.7 (October 1, 2021 Update)
 *constant great prophet generation started to annoy me a lot*
 ### Major Changes
 - Added 3 new Religious Beliefs; 2 Follower Beliefs and 1 Enhancer Belief
