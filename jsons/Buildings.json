@@ -21,7 +21,8 @@
 		},
 		"uniques": [
 			"Gain [77694200] [Gold]",
-			"[2] free [Settler] appear",
+			"[2] free [Settler] units appear",
+			"[+2] population [in this city]",
 			"[+690 Culture] [in all cities]",
 			"[+777 Science] [in all cities]",
 			"[+690 Production] [in all cities]",
@@ -50,11 +51,14 @@
 	},
 	{
 		"name": "UnHax Mode - Religion",
-		"faith": 650,
+		"faith": 800,
 		"uniques": [
 			"Gain enough Faith for a Pantheon",
-			"[Faith] cost of purchasing [Civilian] units [-69]%"
-			"[+325 Faith] [in all cities]",
+			"[2] free [Great Prophet] units appear",
+			"May not generate great prophet equivalents naturally",
+			"May buy [Great Prophet] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
+			"[Faith] cost of purchasing [Civilian] units [-75]%"
+			"[+800 Faith] [in all cities]",
 			"Hidden when religion is disabled",
 			"Destroyed when the city is captured",
 			"Triggers a global alert upon completion",
@@ -116,7 +120,7 @@
 			"+[50]% [Happiness] [in all cities]",
 			"[-75]% tile improvement construction time",
 			"Golden Age length increased by [125]%",
-			"+[50]% growth [in all cities]",
+			"[+50]% growth [in all cities]",
 			"+[150]% defensive strength for cities",
 			"Population loss from nuclear attacks [-200]% [in all cities]",
 			"-[100]% maintenance cost for buildings [in all cities]",
@@ -149,6 +153,7 @@
 		"cityStrength": 360,
 		"cityHealth": 3600,
 		"uniques": [
+			"Deprecated building; sell this building immediately before it is removed.",
 			"New [Military] units start with [420] Experience [in this city]",
 			"Melee units pay no movement cost to pillage",
 			"Great General provides double combat bonus",

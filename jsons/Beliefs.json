@@ -1,0 +1,19 @@
+[
+	{
+		"name": "Inspirational Wonders",
+		"type": "Follower",
+		"uniques": ["[+4 Faith, +7 Culture, +5 Happiness] from every [Natural Wonder]", "[+3 Faith, +9 Culture, +7 Happiness] from every [Wonder]"]
+	},
+	
+	{
+		"name": "Hopeful Habitability",
+		"type": "Follower",
+		"uniques": ["[+4 Gold, +4 Faith] from every [Desert]", "[+4 Production, +4 Faith] from every [Snow]", "[+4 Food, +4 Faith] from every [Tundra]"]
+	},
+	
+	{
+		"name": "Warriors of God",
+		"type": "Enhancer",
+		"uniques": ["+[40]% Strength for units fighting in [Enemy Land]", "+[60]% Strength for units fighting in [Friendly Land]"],
+	}
+]

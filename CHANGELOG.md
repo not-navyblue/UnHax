@@ -1,4 +1,18 @@
 # UnHax Changelog
+## v1.7 (October 2, 2021 Update)
+*constant great prophet generation started to annoy me a lot*
+### Major Changes
+- Added 3 new Religious Beliefs; 2 Follower Beliefs and 1 Enhancer Belief
+- **Religion** now causes Great Prophets to stop generating naturally. Talk about irony.
+- **Religion** now provides 2 free Great Prophets, for founding and enhancing religions
+- Great Prophets can now be bought with Faith at a lower price when **Religion** is built
+### Minor Changes
+- 'Reduced' cost of purchasing Civilian units with Faith from -69% to -75% (again, this is a buff, trust me)
+- Increased empire-wide Faith generation from 325 to 800 (this is doubled in capital city)
+### Bugfixes
+- Fixed **Base** not giving 2 free Settlers for free
+- Updated some uniques (is this even a bugfix???)
+
 ## v1.6 (September 28, 2021 Update)
 *playing with unit promotions*
 ### Major Changes

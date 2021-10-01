@@ -7,7 +7,7 @@ Fair warning: Use at your own risk as this mod *can* ruin your experience.<br>
 If it did, then... what did you expect? It's a cheat mod, after all lol
 
 ### Quick Notice:
-As of v1.5, the building has been renamed from "**UnHax Mode - Military+**" to "**UnHax Mode - Military**". To maintain 
+As of v1.5+, the building has been renamed from "**UnHax Mode - Military+**" to "**UnHax Mode - Military**". To maintain 
 compatibility for versions from v1.2 to v1.4, both buildings will have to remain for now, but **Military+** is unobtainable 
 by any means, is no longer updated, and can be sold. If playing an existing save, players must sell their **Military+** buildings 
 and replace them with **Military** buildings before this makeshift compatibility patch gets removed in a future update.
@@ -19,8 +19,8 @@ science, production, happiness, unit XP, and great person points (except Great G
 quantities, as well as some unit promotions that are otherwise exclusive or difficult to obtain, and extra specialist slots. 
 Limited to the capital city only, cannot be sold, and is destroyed when the capital falls. (Added in v1.0; renamed in v1.1)<br>
 
-**UnHax Mode - Religion**: a building made specifically for religion-enabled games, generating 
-Faith at large quantities, and allows for immediate founding of Pantheons. It has similar limitations as the **Base** building, 
+**UnHax Mode - Religion**: a building made specifically for religion-enabled games, generating Faith at large quantities, 
+and allows for immediate founding and enhancing of religions. It has similar limitations as the **Base** building, 
 with an extra caveat of being unbuildable, but can be bought in the capital city once **Base** has been built. 
 (Added in v1.1; method of acquisition changed in v1.5)<br>
 
@@ -30,7 +30,7 @@ limitations as the **Religion** building, but unlike the first two buildings, it
 buying it with Gold once the **Base** building has been built in the capital. (Added in v1.2; renamed in v1.5)<br>
 
 **UnHax Mode - Enhancement**: a building with assorted bonuses to build on the already plentiful additions provided by 
-**Base** and **Military**. It shares multiple limitations and mode of acquisition with the **Religion** building, 
+**Base**, **Military**, and **Religion**. It shares multiple limitations and mode of acquisition with the **Religion** building, 
 sans the requirement of the "Enable Religion" option. (Added in v1.3)<br>
 
 ### Unit Promotions:
@@ -78,3 +78,5 @@ via [Flaticon](https://www.flaticon.com/authors/eucalyp)
 - [**Panacea's Gift**](https://thenounproject.com/search/?q=health&i=2492427) icon by [Linker](https://thenounproject.com/linker) from The Noun Project
 ### Others:
 - Mod inspired by [paontv's "Difficulty_Sandbox"](https://github.com/paontv/Difficulty_Sandbox/), specifically the buildings
+
+###### *this readme will change over time
