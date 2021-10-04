@@ -1,0 +1,17 @@
+[
+	{
+		"columnNumber": 0,
+		"era": "Ancient era",
+		"techCost": 9000000,
+		"buildingCost": 40,
+		"techs": [
+			{
+				"name": "Founder's Entrance",
+				"row": 8,
+				"prerequisites": ["Agriculture"],
+				"quote": "The Founder unit... perhaps one of the most overpowered Civilian units out there, if it is even considered a \"Civilian\" unit.",
+				"uniques": ["Triggers a global alert upon completion"]
+			}
+		]
+	},
+]

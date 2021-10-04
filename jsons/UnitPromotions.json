@@ -9,6 +9,14 @@
 		]
 	},
 	{
+		"name": "Founder's Frontier",
+		"uniques": [
+			"+[70]% Strength when defending",
+			"May heal outside of friendly territory",
+			"Unit will heal every turn, even if it performs an action"
+		]
+	},
+	{
 		"name": "Air Superiority",
 		"uniques": [
 			"+[110]% Strength when attacking",

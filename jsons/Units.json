@@ -1,0 +1,25 @@
+[
+	{
+		"name": "Settler",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"obsoleteTech": "Founder's Entrance",
+		"upgradesTo": "Founder",
+		"uniques": ["Founds a new city", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Founder",
+		"unitType": "Civilian",
+		"movement": 4,
+		"strength": 50,
+		"cost": 777000,
+		"requiredTech": "Founder's Entrance",
+		"uniques": ["Founds a new city", "Excess Food converted to Production when under construction", "Uncapturable", 
+		"Requires at least [7] population", "Cannot attack", "All tiles cost 1 movement", "Unable to capture cities"],
+		"promotions": ["Founder's Frontier"],
+		"hurryCostModifier": 700
+	}
+]

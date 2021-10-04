@@ -6,98 +6,112 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/UnHax Mode - Base
   rotate: false
-  xy: 1240, 448
+  xy: 1504, 749
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 BuildingIcons/UnHax Mode - Enhancement
   rotate: false
-  xy: 1504, 712
+  xy: 1504, 485
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 BuildingIcons/UnHax Mode - Military
   rotate: false
-  xy: 1504, 448
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-BuildingIcons/UnHax Mode - Military+
-  rotate: false
-  xy: 1504, 448
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-BuildingIcons/UnHax Mode - Recruitment
-  rotate: false
-  xy: 1768, 712
+  xy: 1768, 749
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 BuildingIcons/UnHax Mode - Religion
   rotate: false
-  xy: 1768, 448
+  xy: 1768, 485
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Founder
+  rotate: false
+  xy: 4, 4
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+UnitIcons/Founder
+  rotate: false
+  xy: 976, 485
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+TechIcons/Founder's Entrance
+  rotate: false
+  xy: 976, 485
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Founder's Frontier
+  rotate: false
+  xy: 976, 485
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Air Superiority
   rotate: false
-  xy: 4, 4
+  xy: 4, 41
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Better Wayfinding
   rotate: false
-  xy: 712, 712
+  xy: 712, 749
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Brilliant Detonation
   rotate: false
-  xy: 268, 4
+  xy: 268, 41
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Civilian Assistance
   rotate: false
-  xy: 712, 448
+  xy: 712, 485
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Enhanced Vision
   rotate: false
-  xy: 976, 712
+  xy: 976, 749
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Improved Radar
   rotate: false
-  xy: 976, 448
+  xy: 1240, 749
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Mastery of War
   rotate: false
-  xy: 1240, 712
+  xy: 1240, 485
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Panacea's Gift
   rotate: false
-  xy: 4, 268
+  xy: 4, 305
   size: 700, 700
   orig: 700, 700
   offset: 0, 0

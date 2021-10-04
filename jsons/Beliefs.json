@@ -1,8 +1,20 @@
-[
+[	
+	{
+		"name": "Tidal Connection",
+		"type": "Pantheon",
+		"uniques": ["[+2 Production, +2 Food, +2 Gold, +1 Faith] from every [Coast]", "[+2 Production, +2 Food, +2 Gold, +1 Faith] from every [Ocean]"]
+	},
+	
 	{
 		"name": "Inspirational Wonders",
 		"type": "Follower",
 		"uniques": ["[+4 Faith, +7 Culture, +5 Happiness] from every [Natural Wonder]", "[+3 Faith, +9 Culture, +7 Happiness] from every [Wonder]"]
+	},
+	
+	{
+		"name": "Golden Enlightenment",
+		"type": "Follower",
+		"uniques": ["[+3 Faith, +3 Happiness, +3 Gold] from every [Gold Ore]", "+[100]% Natural religion spread [in all cities]"]
 	},
 	
 	{

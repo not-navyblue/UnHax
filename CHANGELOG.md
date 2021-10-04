@@ -1,4 +1,19 @@
 # UnHax Changelog
+## v1.8 (October 4, 2021 Update)
+*...*
+**Warning: Incompatible with saves that use UnHax v1.5 and below.**
+### Major Changes
+- Added the **Founder** unit
+- Added 1 new tech: **Founder's Entrance**, and 1 new unit promotion exclusive to **Founder**: **Founder's Frontier**
+- Added 1 new Pantheon and 1 new Follower Belief
+- **Enhancement** now provides 1 Free Technology
+### Minor Changes
+- All of **Enhancement**'s empire-wide stat increase percentages are now 100% instead of 90%, 75%, or 50%
+- Population increase provided by **Base** is now 4 from 2
+### Removed Features
+- Deleted **Military+** for good, ending compatibility with versions below v1.5
+- All buildings except for **Base** no longer trigger a global alert when completed
+
 ## v1.7 (October 1, 2021 Update)
 *constant great prophet generation started to annoy me a lot*
 ### Major Changes

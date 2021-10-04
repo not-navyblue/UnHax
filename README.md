@@ -6,12 +6,6 @@ No "Sandbox" difficulty or overpowered nations included. How you're gonna get th
 Fair warning: Use at your own risk as this mod *can* ruin your experience.<br>
 If it did, then... what did you expect? It's a cheat mod, after all lol
 
-### Quick Notice:
-As of v1.5+, the building has been renamed from "**UnHax Mode - Military+**" to "**UnHax Mode - Military**". To maintain 
-compatibility for versions from v1.2 to v1.4, both buildings will have to remain for now, but **Military+** is unobtainable 
-by any means, is no longer updated, and can be sold. If playing an existing save, players must sell their **Military+** buildings 
-and replace them with **Military** buildings before this makeshift compatibility patch gets removed in a future update.
-
 ## What the mod contains:
 ### Buildings:
 **UnHax Mode - Base**: an "*almost* one-size-fits-all" building that includes many things such as gold, food, culture, 
@@ -33,21 +27,35 @@ buying it with Gold once the **Base** building has been built in the capital. (A
 **Base**, **Military**, and **Religion**. It shares multiple limitations and mode of acquisition with the **Religion** building, 
 sans the requirement of the "Enable Religion" option. (Added in v1.3)<br>
 
+### Units:
+#### **Founder**
+- Civilian/Military unit, 4 Movement, 50 Strength
+- Replaces and upgrades from Settler
+- Requires 7 population, Cannot attack, All tiles cost 1 movement point, Cannot capture cities, Uncapturable
+- Receives **Founder's Frontier** for free
+- Unlocked by **Founder's Entrance**
+
 ### Unit Promotions:
 **Mastery of War** and **Air Superiority**: +110% Strength when attacking, +130% Strength when defending (**Mastery of War**) 
-Damage taken from interception reduced by 100% (**Air Superiority**), 1 additional attack per turn, 
+Damage taken from interception reduced by 90% (**Air Superiority**), 1 additional attack per turn, 
 Ignores Zone of Control (**Mastery of War**) (Added in v1.2)<br>
 
 **Brilliant Detonation**: +365% Strength when attacking, Damage taken from interception reduced by 90% (for Atomic Bombers), 
 +5 Range, Great General is earned 80% faster (Added in v1.2)<br>
 
-**Enhanced Vision**, **Better Wayfinding**, and **Improved Radar**: Increased visibility range (**Enhanced Vision**: +2 / 
-**Better Wayfinding**: +4) and movement/range (**Enhanced Vision**: +2 / **Better Wayfinding**: +1 / **Improved Radar**: +4) (Added in v1.2)<br>
+**Enhanced Vision**: +2 Visibility Range, +2 Movement, Normal vision when embarked, Ignores terrain cost (Added in v1.2)<br>
+
+**Better Wayfinding**: +4 Visibility Range, +1 Movement, Can see invisible Submarine units (Added in v1.2)<br>
+
+**Improved Radar**: +4 Range (Added in v1.2)<br>
 
 **Civilian Assistance**: All adjacent units heal 60 extra HP when healing, Bonus for units in 2-tile radius 15% (Added in v1.3)<br>
 
 **Panacea's Gift**: Heals 40 damage if it kills a Unit, May heal outside of friendly territory, Unit will heal every turn even if it 
 performs an action, All healing effects doubled (Added in v1.5)<br>
+
+**Founder's Frontier**: +70% Strength when defending, May heal outside of friendly territory, Unit will heal every turn, even if it 
+performs an action \[Exclusive to **Founder**\] (Added in v1.8)<br>
 
 ## Changelog:
 *See [CHANGELOG.md](https://github.com/not-navyblue/UnHax/blob/main/CHANGELOG.md).*
@@ -65,7 +73,9 @@ performs an action, All healing effects doubled (Added in v1.5)<br>
 [**Enhancement**](https://icooon-mono.com/12266-arrow-up-icon-5/?lang=en), 
 [**Master of War**](https://icooon-mono.com/10684-sword-icon-1/?lang=en), 
 [**Air**](https://icooon-mono.com/10738-jet-fighter/?lang=en) [**Superiority**](https://icooon-mono.com/10061-star-icon-4/?lang=en), 
-and [**Civilian Assistance**](https://icooon-mono.com/11272-stethoscope-icon-3/?lang=en) icons from [icooon mono](https://icooon-mono.com/)
+[**Civilian Assistance**](https://icooon-mono.com/11272-stethoscope-icon-3/?lang=en), 
+[**Founder**, **Founder's Entrance**, and **Founder's Frontier**](https://icooon-mono.com/10066-flag-icon-3/?lang=en) 
+icons from [icooon mono](https://icooon-mono.com/)
 
 - [**Brilliant Detonation**](https://www.flaticon.com/free-icon/explosion_3888655), 
 [**Enhanced Vision**](https://www.flaticon.com/free-icon/vision_561155), and 
