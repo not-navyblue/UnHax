@@ -61,7 +61,7 @@ performs an action \[Exclusive to **Founder**\] (Added in v1.8)<br>
 *See [CHANGELOG.md](https://github.com/not-navyblue/UnHax/blob/main/CHANGELOG.md).*
 
 ## Features planned to be added soon™:
-- unhax-exclusive unit promotions (Added in v1.2 - v1.5; more to come, probably)
+- unhax-exclusive unit promotions (Added in v1.2 - v1.8; more to come, probably)
 - probably more to add on unhax mode itself (continuous?)
 - ???
 
