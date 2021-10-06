@@ -1,4 +1,20 @@
 # UnHax Changelog
+## v1.9 (October 6, 2021 Update)
+*...?*
+### Major Changes
+- Added 2 new Pantheons (1 with RekMOD enabled), 1 new Founder belief, and 1 new Enhancer belief
+- **Religion** now allows 1 extra Pantheon when founding a religion, and 1 extra Follower & Enhancer beliefs when enhancing a religion
+- **Better Wayfinding** now allows naval units to move through impassable tiles
+- **Improved Radar** now provides +2 Sight to aircraft units
+- **Tidal Connection** now provides +50% Strength to units fighting in water tiles
+- All buildings now have starred descriptions directly from (README.md)[https://github.com/not-navyblue/UnHax/blob/main/README.md]
+### Minor Changes
+- **Base**'s empire-wide Gold generation no longer applies to the capital (and is increased from 4200 to 6900)
+- Increased the number of **Founder** units **Base** provides from 2 to 3
+- Multiplied the Production cost of **Founder** by 10
+### Removed Features
+- **Settler** is no longer replaced by **Founder** when **Founder's Entrance** is researched
+
 ## v1.8 (October 4, 2021 Update)
 *...*
 **Warning: Incompatible with saves that use UnHax v1.5 and below.**

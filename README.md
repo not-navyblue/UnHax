@@ -8,7 +8,7 @@ If it did, then... what did you expect? It's a cheat mod, after all lol
 
 ## What the mod contains:
 ### Buildings:
-**UnHax Mode - Base**: an "*almost* one-size-fits-all" building that includes many things such as gold, food, culture, 
+**UnHax Mode - Base**: an "*almost* one-size-fits-all" building that provides many things such as gold, food, culture, 
 science, production, happiness, unit XP, and great person points (except Great General and Great Prophet), all in large 
 quantities, as well as some unit promotions that are otherwise exclusive or difficult to obtain, and extra specialist slots. 
 Limited to the capital city only, cannot be sold, and is destroyed when the capital falls. (Added in v1.0; renamed in v1.1)<br>
@@ -30,7 +30,7 @@ sans the requirement of the "Enable Religion" option. (Added in v1.3)<br>
 ### Units:
 #### **Founder**
 - Civilian/Military unit, 4 Movement, 50 Strength
-- Replaces and upgrades from Settler
+- Upgrades from Settler
 - Requires 7 population, Cannot attack, All tiles cost 1 movement point, Cannot capture cities, Uncapturable
 - Receives **Founder's Frontier** for free
 - Unlocked by **Founder's Entrance**
@@ -45,9 +45,9 @@ Ignores Zone of Control (**Mastery of War**) (Added in v1.2)<br>
 
 **Enhanced Vision**: +2 Visibility Range, +2 Movement, Normal vision when embarked, Ignores terrain cost (Added in v1.2)<br>
 
-**Better Wayfinding**: +4 Visibility Range, +1 Movement, Can see invisible Submarine units (Added in v1.2)<br>
+**Better Wayfinding**: +4 Visibility Range, +1 Movement, Can see invisible Submarine units, Can pass through impassable tiles (Added in v1.2)<br>
 
-**Improved Radar**: +4 Range (Added in v1.2)<br>
+**Improved Radar**: +4 Range, +2 Sight (Added in v1.2)<br>
 
 **Civilian Assistance**: All adjacent units heal 60 extra HP when healing, Bonus for units in 2-tile radius 15% (Added in v1.3)<br>
 

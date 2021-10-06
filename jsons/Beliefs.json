@@ -2,7 +2,25 @@
 	{
 		"name": "Tidal Connection",
 		"type": "Pantheon",
-		"uniques": ["[+2 Production, +2 Food, +2 Gold, +1 Faith] from every [Coast]", "[+2 Production, +2 Food, +2 Gold, +1 Faith] from every [Ocean]"]
+		"uniques": ["[+2 Production, +2 Food, +2 Gold, +1 Faith] from every [Coast]", "[+2 Production, +2 Food, +2 Gold, +1 Faith] from every [Ocean]", "+[50]% Strength for units fighting in [Water] tiles"]
+	},
+	
+	{
+		"name": "The Frozen Mother",
+		"type": "Pantheon",
+		"uniques": ["[+2 Food, +4 Faith] from every [Snow]", "[+2 Production, +4 Faith] from every [Tundra]", "+[50]% Strength for units fighting in [Snow] tiles", "+[50]% Strength for units fighting in [Tundra] tiles"]
+	},
+	
+	{
+		"name": "God-King",
+		"type": "Pantheon",
+		"uniques": ["[+5 Faith, +2 Gold, +2 Food, +2 Production, +2 Happiness, +2 Culture, +2 Science] from every [Palace]"]
+	},
+	
+	{
+		"name": "Religious Diplomacy",
+		"type": "Founder",
+		"uniques": ["When declaring friendship, both parties gain a [80]% boost to great people generation", "Resting point for influence with City-States following this religion [+25]", "[+33]% Natural religion spread [in foreign cities]"]
 	},
 	
 	{
@@ -27,5 +45,11 @@
 		"name": "Warriors of God",
 		"type": "Enhancer",
 		"uniques": ["+[40]% Strength for units fighting in [Enemy Land]", "+[60]% Strength for units fighting in [Friendly Land]"],
+	},
+	
+	{
+		"name": "Widespread Preachers",
+		"type": "Enhancer",
+		"uniques": ["Religion naturally spreads to cities [+7] tiles away", "[+77]% Natural religion spread [in all cities]", "+[3] Movement for all [Great Prophet] units", "+[3] Movement for all [Missionary] units"]
 	}
 ]

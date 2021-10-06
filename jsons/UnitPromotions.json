@@ -54,13 +54,15 @@
 		"uniques": [
 			"[+4] Visibility Range",
 			"[+1] Movement",
-			"Can see invisible [Submarine] units"
+			"Can see invisible [Submarine] units",
+			"Can pass through impassable tiles"
 		]
 	},
 	{
 		"name": "Improved Radar",
 		"uniques": [
-			"[+4] Range"
+			"[+4] Range",
+			"[+2] Sight"
 		]
 	},
 	{

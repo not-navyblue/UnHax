@@ -1,6 +1,12 @@
 [
 	{
 		"name": "UnHax Mode - Base",
+		"civilopediaText": [
+			{
+				"text": "The main building; it is an \"almost one-size-fits-all\" building that provides many things such as all stats except Faith, unit XP, and great person points (except Great General and Great Prophet), all in large quantities, as well as some unit promotions that are otherwise exclusive or difficult to obtain, and extra specialist slots. Limited to the capital city only, cannot be sold, and is destroyed when the capital falls.",
+				"starred": true
+			}
+		],
 		"gold": 7769420,
 		"culture": 690,
 		"science": 777,
@@ -21,20 +27,21 @@
 		},
 		"uniques": [
 			"Gain [77694200] [Gold]",
-			"[2] free [Founder] units appear",
+			"[3] free [Founder] units appear",
 			"[+4] population [in this city]",
 			"[+690 Culture] [in all cities]",
 			"[+777 Science] [in all cities]",
 			"[+690 Production] [in all cities]",
 			"[+420 Food] [in all cities]",
-			"[+4200 Gold] [in all cities]",
+			"[+6900 Gold] [in all cities]",
+			"[-6900 Gold] [in capital]",
 			"[+690 Happiness] [in all cities]",
 			"May buy [UnHax Mode - Military] buildings for [420000000] [Gold] [in all cities]",
 			"May buy [UnHax Mode - Religion] buildings for [420000000] [Gold] [in this city]",
 			"May buy [UnHax Mode - Enhancement] buildings for [420000000] [Gold] [in this city]",
 			"New [Military] units start with [69000] Experience [in all cities]",
 			"Units fight as though they were at full strength even when damaged",
-			"Provides a [UnHax Mode - Military] in your first [1] cities for free",
+			"Provides a [UnHax Mode - Military] in your first [4] cities for free",
 			"[{non-air} {Military}] units gain the [Rejuvenation] promotion",
 			"[{Fighter} {Military}] units gain the [Rejuvenation] promotion",
 			"[{Bomber} {Military}] units gain the [Rejuvenation] promotion",
@@ -49,12 +56,22 @@
 		"hurryCostModifier": 420,
 		"maintenance": 4200
 	},
+	
 	{
 		"name": "UnHax Mode - Religion",
+		"civilopediaText": [
+			{
+				"text": "A building made specifically for religion-enabled games, generating Faith at large quantities, and allows for immediate founding and enhancing of religions. It has similar limitations as the main building, with an extra caveat of being unbuildable, but can be bought in the capital city once the main building has been built.",
+				"starred": true
+			}
+		]
 		"faith": 800,
 		"uniques": [
 			"Gain enough Faith for a Pantheon",
 			"[2] free [Great Prophet] units appear",
+			"May choose [2] additional [Pantheon] beliefs when [founding] a religion",
+			"May choose [1] additional [Follower] beliefs when [enhancing] a religion",
+			"May choose [1] additional [Enhancer] beliefs when [enhancing] a religion",
 			"May not generate great prophet equivalents naturally",
 			"May buy [Great Prophet] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
 			"[Faith] cost of purchasing [Civilian] units [-75]%"
@@ -67,8 +84,15 @@
 		"cost": 420000000,
 		"maintenance": 7777
 	},
+	
 	{
 		"name": "UnHax Mode - Military",
+		"civilopediaText": [
+			{
+				"text": "A military-oriented building that provides free unit promotions not provided (or previously provided) by the main building, increased city strength and city health, and others. It has similar limitations as the Religion building, but unlike the first two buildings, it can be built on all cities by buying it with Gold once the main building has been built in the capital.",
+				"starred": true
+			}
+		]
 		"cityStrength": 365,
 		"cityHealth": 3650,
 		"uniques": [
@@ -105,8 +129,15 @@
 		"cost": 420000000,
 		"maintenance": 357
 	},
+	
 	{
 		"name": "UnHax Mode - Enhancement", 
+		"civilopediaText": [
+			{
+				"text": "A building with assorted bonuses to build on the already plentiful additions provided by Military, Religion, and the main buildings. It shares multiple limitations and mode of acquisition with the Religion building, except for the requirement of the \"Enable Religion\" option.",
+				"starred": true
+			}
+		]
 		"uniques": [
 			"+[100]% [Gold] [in all cities]",
 			"+[100]% [Science] [in all cities]",
