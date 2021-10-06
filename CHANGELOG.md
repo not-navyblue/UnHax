@@ -7,7 +7,7 @@
 - **Better Wayfinding** now allows naval units to move through impassable tiles
 - **Improved Radar** now provides +2 Sight to aircraft units
 - **Tidal Connection** now provides +50% Strength to units fighting in water tiles
-- All buildings now have starred descriptions directly from (README.md)[https://github.com/not-navyblue/UnHax/blob/main/README.md]
+- All buildings now have starred descriptions directly from [README.md](https://github.com/not-navyblue/UnHax/blob/main/README.md)
 ### Minor Changes
 - **Base**'s empire-wide Gold generation no longer applies to the capital (and is increased from 4200 to 6900)
 - Increased the number of **Founder** units **Base** provides from 2 to 3
