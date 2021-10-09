@@ -31,8 +31,8 @@
 - **Religion** no longer gives Faith needed for founding a Pantheon (because Great Prophets handle that)\*
 - **Base** no longer provides instant 10x Gold\*
 - **Enhancement** no longer has the ability for units to move immediately after getting bought\*\*
-######\* Both uniques are no longer allowed for anything other than ruins, though it technically still works (3.17.5)
-######\*\* It works for individual units, but not for unit promotions or buildings (3.17.6)
+###### \* Both uniques are no longer allowed for anything other than ruins, though it technically still works (3.17.5)
+###### \*\* It works for individual units, but not for unit promotions or buildings (3.17.6)
 
 ## v1.9 (October 6, 2021 Update)
 *...?*
