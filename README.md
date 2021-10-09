@@ -20,7 +20,7 @@ Limited to the capital city only, cannot be sold, and is destroyed when the capi
 **UnHax Mode - Religion**: a building made specifically for religion-enabled games, generating Faith at large quantities, 
 and allows for immediate founding and enhancing of religions. It has similar limitations as the **Base** building, 
 with an extra caveat of being unbuildable, but can be bought in the capital city once **Base** has been built. **Religion** is 
-been split into two buildings, **Monotheistic Religion** and **Polytheistic Religion**, both of which give different belief slots 
+split into two buildings, **Monotheistic Religion** and **Polytheistic Religion**, both of which give different belief slots 
 for founding/enhancing a religion but otherwise functions identically the same. 
 (Added in v1.1; method of acquisition changed in v1.5; split in v1.10)<br>
 
@@ -37,7 +37,8 @@ sans the requirement of the "Enable Religion" option. (Added in v1.3)<br>
 #### **Founder**
 - Civilian/Military unit, 4 Movement, 50 Strength
 - Upgrades from Settler
-- Requires 7 population, Cannot attack, All tiles cost 1 movement point, Cannot capture cities, Uncapturable
+- Requires 7 population, Cannot attack, All tiles cost 1 movement point, Cannot capture cities, Uncapturable, 
+Can move immediately after bought
 - Receives **Founder's Frontier** for free
 - Unlocked by **Founder's Entrance**
 
@@ -47,13 +48,13 @@ Damage taken from interception reduced by 90% (**Air Superiority**), 1 additiona
 Ignores Zone of Control (**Mastery of War**) (Added in v1.2)<br>
 
 **Brilliant Detonation**: +365% Strength when attacking, Damage taken from interception reduced by 90% (for Atomic Bombers), 
-+5 Range, Great General is earned 80% faster (Added in v1.2)<br>
++5 Range, Great General is earned 80% faster, +4 Sight, 6 tiles in every direction always visible (Added in v1.2)<br>
 
-**Enhanced Vision**: +2 Visibility Range, +2 Movement, Normal vision when embarked, Ignores terrain cost (Added in v1.2)<br>
+**Enhanced Vision**: +2 Visibility Range, +3 Movement, Normal vision when embarked, Ignores terrain cost (Added in v1.2)<br>
 
-**Better Wayfinding**: +4 Visibility Range, +1 Movement, Can see invisible Submarine units, Can pass through impassable tiles (Added in v1.2)<br>
+**Better Wayfinding**: +5 Visibility Range, +1 Movement, Can see invisible Submarine units, Can pass through impassable tiles (Added in v1.2)<br>
 
-**Improved Radar**: +4 Range, +2 Sight (Added in v1.2)<br>
+**Improved Radar**: +4 Range, +4 Sight, 6 tiles in every direction always visible (Added in v1.2)<br>
 
 **Civilian Assistance**: All adjacent units heal 60 extra HP when healing, Bonus for units in 2-tile radius 15% (Added in v1.3)<br>
 
