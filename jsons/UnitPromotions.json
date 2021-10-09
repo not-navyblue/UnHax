@@ -2,8 +2,8 @@
 	{
 		"name": "Mastery of War",
 		"uniques": [
-			"+[110]% Strength when attacking",
-			"+[130]% Strength when defending",
+			"[+110]% Strength <when attacking>",
+			"[+130]% Strength <when defending>",
 			"[1] additional attacks per turn",
 			"Ignores Zone of Control"
 		]
@@ -11,7 +11,7 @@
 	{
 		"name": "Founder's Frontier",
 		"uniques": [
-			"+[70]% Strength when defending",
+			"[+70]% Strength <when defending>",
 			"May heal outside of friendly territory",
 			"Unit will heal every turn, even if it performs an action"
 		]
@@ -19,7 +19,7 @@
 	{
 		"name": "Air Superiority",
 		"uniques": [
-			"+[110]% Strength when attacking",
+			"[+110]% Strength <when attacking>",
 			"Damage taken from interception reduced by [90]%",
 			"[1] additional attacks per turn"
 		]
@@ -43,8 +43,8 @@
 	{
 		"name": "Enhanced Vision",
 		"uniques": [
-			"[+2] Visibility Range",
-			"[+2] Movement",
+			"[+2] Sight",
+			"[+3] Movement",
 			"Normal vision when embarked",
 			"Ignores terrain cost"
 		]
@@ -52,7 +52,7 @@
 	{
 		"name": "Better Wayfinding",
 		"uniques": [
-			"[+4] Visibility Range",
+			"[+5] Sight",
 			"[+1] Movement",
 			"Can see invisible [Submarine] units",
 			"Can pass through impassable tiles"
@@ -62,15 +62,18 @@
 		"name": "Improved Radar",
 		"uniques": [
 			"[+4] Range",
-			"[+2] Sight"
+			"[+4] Sight",
+			"6 tiles in every direction always visible"
 		]
 	},
 	{
 		"name": "Brilliant Detonation",
 		"uniques": [
-			"+[365]% Strength when attacking",
+			"[+365]% Strength <when attacking>",
 			"Damage taken from interception reduced by [90]%",
 			"[+5] Range",
+			"[+4] Sight",
+			"6 tiles in every direction always visible",
 			"[Great General] is earned [80]% faster"
 		]
 	}

@@ -6,6 +6,10 @@ No "Sandbox" difficulty or overpowered nations included. How you're gonna get th
 Fair warning: Use at your own risk as this mod *can* ruin your experience.<br>
 If it did, then... what did you expect? It's a cheat mod, after all lol
 
+### Quick Notice:
+**Religion** has been split into two buildings; however, for compatibility reasons, the original building has been retained. 
+If you wish to try out the building split, please start a new game, as both buildings' features are identical otherwise.
+
 ## What the mod contains:
 ### Buildings:
 **UnHax Mode - Base**: an "*almost* one-size-fits-all" building that provides many things such as gold, food, culture, 
@@ -15,8 +19,10 @@ Limited to the capital city only, cannot be sold, and is destroyed when the capi
 
 **UnHax Mode - Religion**: a building made specifically for religion-enabled games, generating Faith at large quantities, 
 and allows for immediate founding and enhancing of religions. It has similar limitations as the **Base** building, 
-with an extra caveat of being unbuildable, but can be bought in the capital city once **Base** has been built. 
-(Added in v1.1; method of acquisition changed in v1.5)<br>
+with an extra caveat of being unbuildable, but can be bought in the capital city once **Base** has been built. **Religion** is 
+been split into two buildings, **Monotheistic Religion** and **Polytheistic Religion**, both of which give different belief slots 
+for founding/enhancing a religion but otherwise functions identically the same. 
+(Added in v1.1; method of acquisition changed in v1.5; split in v1.10)<br>
 
 **UnHax Mode - Military**: a military-oriented building that provides free unit promotions not 
 provided (or previously provided) by **Base**, increased city strength and city health, and others. It has similar 
@@ -68,10 +74,10 @@ performs an action \[Exclusive to **Founder**\] (Added in v1.8)<br>
 ## Credits:
 ### Icons:
 - [**Base**](https://icooon-mono.com/10991-display-pictogram/?lang=en), 
-[**Religion**](https://icooon-mono.com/11966-pigeon-icon-2/?lang=en), 
+[**Monotheistic/Polytheistic Religion**](https://icooon-mono.com/11966-pigeon-icon-2/?lang=en), 
 [**Military+**](https://icooon-mono.com/12221-ancient-greek-helmet-icon-3/?lang=en), 
 [**Enhancement**](https://icooon-mono.com/12266-arrow-up-icon-5/?lang=en), 
-[**Master of War**](https://icooon-mono.com/10684-sword-icon-1/?lang=en), 
+[**Mastery of War**](https://icooon-mono.com/10684-sword-icon-1/?lang=en), 
 [**Air**](https://icooon-mono.com/10738-jet-fighter/?lang=en) [**Superiority**](https://icooon-mono.com/10061-star-icon-4/?lang=en), 
 [**Civilian Assistance**](https://icooon-mono.com/11272-stethoscope-icon-3/?lang=en), 
 [**Founder**, **Founder's Entrance**, and **Founder's Frontier**](https://icooon-mono.com/10066-flag-icon-3/?lang=en) 

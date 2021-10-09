@@ -7,46 +7,46 @@
 				"starred": true
 			}
 		],
-		"gold": 7769420,
+		"gold": 42069777,
 		"culture": 690,
 		"science": 777,
 		"food": 420,
 		"production": 690,
 		"happiness": 690,
 		"greatPersonPoints": {
-			"Great Artist": 45,
-			"Great Engineer": 45,
-			"Great Merchant": 45,
-			"Great Scientist": 45
+			"Great Scientist": 50,
+			"Great Artist": 50,
+			"Great Merchant": 50,
+			"Great Engineer": 50
 		},
 		"specialistSlots": {
-			"Scientist": 8,
-			"Artist": 8,
-			"Merchant": 8,
-			"Engineer": 8,
+			"Scientist": 9,
+			"Artist": 9,
+			"Merchant": 9,
+			"Engineer": 9,
 		},
 		"uniques": [
-			"Gain [77694200] [Gold]",
 			"[3] free [Founder] units appear",
 			"[+4] population [in this city]",
 			"[+690 Culture] [in all cities]",
 			"[+777 Science] [in all cities]",
 			"[+690 Production] [in all cities]",
 			"[+420 Food] [in all cities]",
-			"[+6900 Gold] [in all cities]",
-			"[-6900 Gold] [in capital]",
+			"[+42000 Gold] [in all cities]",
 			"[+690 Happiness] [in all cities]",
 			"May buy [UnHax Mode - Military] buildings for [420000000] [Gold] [in all cities]",
-			"May buy [UnHax Mode - Religion] buildings for [420000000] [Gold] [in this city]",
+			"May buy [UnHax Mode - Monotheistic Religion] buildings for [420000000] [Gold] [in this city]",
+			"May buy [UnHax Mode - Polytheistic Religion] buildings for [420000000] [Gold] [in this city]",
 			"May buy [UnHax Mode - Enhancement] buildings for [420000000] [Gold] [in this city]",
 			"New [Military] units start with [69000] Experience [in all cities]",
 			"Units fight as though they were at full strength even when damaged",
-			"Provides a [UnHax Mode - Military] in your first [4] cities for free",
+			"Provides a [UnHax Mode - Military] in your first [5] cities for free",
 			"[{non-air} {Military}] units gain the [Rejuvenation] promotion",
 			"[{Fighter} {Military}] units gain the [Rejuvenation] promotion",
 			"[{Bomber} {Military}] units gain the [Rejuvenation] promotion",
 			"[Civilian] units gain the [Civilian Assistance] promotion",
 			"[{Land} {Civilian}] units gain the [Enhanced Vision] promotion",
+			"[{Water} {Civilian}] units gain the [Better Wayfinding] promotion",
 			"Destroyed when the city is captured",
 			"Can only be built [in capital]",
 			"Triggers a global alert upon completion",
@@ -58,16 +58,19 @@
 	},
 	
 	{
-		"name": "UnHax Mode - Religion",
+		"name": "UnHax Mode - Polytheistic Religion",
 		"civilopediaText": [
 			{
 				"text": "A building made specifically for religion-enabled games, generating Faith at large quantities, and allows for immediate founding and enhancing of religions. It has similar limitations as the main building, with an extra caveat of being unbuildable, but can be bought in the capital city once the main building has been built.",
 				"starred": true
+			},
+			{
+				"text": "This is the Polytheistic variant of the twin Religion buildings. It provides nearly the same bonuses as the pre-v1.10 Religion building.",
+				"starred": true
 			}
 		]
-		"faith": 800,
+		"faith": 1000,
 		"uniques": [
-			"Gain enough Faith for a Pantheon",
 			"[2] free [Great Prophet] units appear",
 			"May choose [2] additional [Pantheon] beliefs when [founding] a religion",
 			"May choose [1] additional [Follower] beliefs when [enhancing] a religion",
@@ -75,7 +78,42 @@
 			"May not generate great prophet equivalents naturally",
 			"May buy [Great Prophet] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
 			"[Faith] cost of purchasing [Civilian] units [-75]%"
-			"[+800 Faith] [in all cities]",
+			"[+1000 Faith] [in all cities]",
+			"Cannot be built with [UnHax Mode - Monotheistic Religion]",
+			"Cannot be built with [UnHax Mode - Religion]",
+			"Hidden when religion is disabled",
+			"Destroyed when the city is captured",
+			"Unbuildable",
+			"Unsellable"
+		],
+		"cost": 420000000,
+		"maintenance": 7777
+	},
+
+	{
+		"name": "UnHax Mode - Monotheistic Religion",
+		"civilopediaText": [
+			{
+				"text": "A building made specifically for religion-enabled games, generating Faith at large quantities, and allows for immediate founding and enhancing of religions. It has similar limitations as the main building, with an extra caveat of being unbuildable, but can be bought in the capital city once the main building has been built.",
+				"starred": true
+			},
+			{
+				"text": "This is the Monotheistic variant of the twin Religion buildings. It provides different additional belief slots, but is otherwise similar to the Polytheistic variant.",
+				"starred": true
+			}
+		]
+		"faith": 1000,
+		"uniques": [
+			"[2] free [Great Prophet] units appear",
+			"May choose [1] additional [Founder] beliefs when [founding] a religion",
+			"May choose [1] additional [Follower] beliefs when [enhancing] a religion",
+			"May choose [2] additional [Enhancer] beliefs when [enhancing] a religion",
+			"May not generate great prophet equivalents naturally",
+			"May buy [Great Prophet] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
+			"[Faith] cost of purchasing [Civilian] units [-75]%"
+			"[+1000 Faith] [in all cities]",
+			"Cannot be built with [UnHax Mode - Polytheistic Religion]",
+			"Cannot be built with [UnHax Mode - Religion]",
 			"Hidden when religion is disabled",
 			"Destroyed when the city is captured",
 			"Unbuildable",
@@ -139,6 +177,7 @@
 			}
 		]
 		"uniques": [
+			"Free Technology", 
 			"+[100]% [Gold] [in all cities]",
 			"+[100]% [Science] [in all cities]",
 			"+[100]% [Culture] [in all cities]",
@@ -146,20 +185,20 @@
 			"+[100]% [Food] [in all cities]",
 			"+[100]% [Faith] [in all cities]",
 			"+[100]% [Happiness] [in all cities]",
-			"Free Technology", 
 			"[-75]% tile improvement construction time",
-			"Golden Age length increased by [125]%",
+			"Golden Age length increased by [200]%",
 			"[+50]% growth [in all cities]",
-			"+[150]% defensive strength for cities",
+			"[+150]% Strength <for cities> <when defending>",
 			"Population loss from nuclear attacks [-200]% [in all cities]",
 			"-[100]% maintenance cost for buildings [in all cities]",
 			"Maintenance on roads & railroads reduced by [100]%",
-			"Can move immediately once bought",
 			"May capture killed [{non-air} {Military}] units",
 			"May capture killed [{Aircraft} {Military}] units",
+			"Embarked units can defend themselves",
 			"[{non-air} {Military}] units gain the [Quick Study] promotion",
 			"[{Fighter} {Military}] units gain the [Quick Study] promotion",
 			"[{Bomber} {Military}] units gain the [Quick Study] promotion",
+			"Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns.",
 			"Double quantity of [Horses] produced",
 			"Double quantity of [Iron] produced",
 			"Double quantity of [Coal] produced",
@@ -174,5 +213,37 @@
 		],
 		"cost": 420000000,
 		"maintenance": 6969
+	},
+	
+	{ // compatibility with v1.9 and below
+		"name": "UnHax Mode - Religion",
+		"civilopediaText": [
+			{
+				"text": "A building made specifically for religion-enabled games, generating Faith at large quantities, and allows for immediate founding and enhancing of religions. It has similar limitations as the main building, with an extra caveat of being unbuildable, but can be bought in the capital city once the main building has been built.",
+				"starred": true
+			},
+			{
+				"text": "Outdated; please replace building or start a new game.",
+				"starred": true
+			}
+		]
+		"faith": 800,
+		"uniques": [
+			"[2] free [Great Prophet] units appear",
+			"May choose [2] additional [Pantheon] beliefs when [founding] a religion",
+			"May choose [1] additional [Follower] beliefs when [enhancing] a religion",
+			"May choose [1] additional [Enhancer] beliefs when [enhancing] a religion",
+			"May not generate great prophet equivalents naturally",
+			"May buy [Great Prophet] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
+			"[Faith] cost of purchasing [Civilian] units [-75]%"
+			"[+800 Faith] [in all cities]",
+			"Cannot be built with [UnHax Mode - Monotheistic Religion]",
+			"Cannot be built with [UnHax Mode - Polytheistic Religion]",
+			"Hidden when religion is disabled",
+			"Destroyed when the city is captured",
+			"Unbuildable"
+		],
+		"cost": 420000000,
+		"maintenance": 7777
 	}
 ]

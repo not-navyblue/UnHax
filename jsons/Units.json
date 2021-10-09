@@ -6,7 +6,7 @@
 		"cost": 106,
 		"upgradesTo": "Founder",
 		"uniques": ["Founds a new city", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population"],
+			"Can move immediately once bought", "Requires at least [2] population"],
 		"hurryCostModifier": 20
 	},
 	{
@@ -17,7 +17,8 @@
 		"cost": 7770000,
 		"requiredTech": "Founder's Entrance",
 		"uniques": ["Founds a new city", "Excess Food converted to Production when under construction", "Uncapturable", 
-		"Requires at least [7] population", "Cannot attack", "All tiles cost 1 movement", "Unable to capture cities"],
+			"Can move immediately once bought", "Requires at least [7] population", "Cannot attack", 
+			"All tiles cost 1 movement", "Unable to capture cities"],
 		"promotions": ["Founder's Frontier"],
 		"hurryCostModifier": 700
 	},

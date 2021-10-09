@@ -1,4 +1,39 @@
 # UnHax Changelog
+## v1.10 (October 9, 2021 Update)
+*me when the huge changes*
+### Major Changes
+- **Religion** has been split to 2 buildings: **UnHax Mode - Polytheistic Religion** and **UnHax Mode - Monotheistic Religion**
+- Added 1 new Founder belief
+- **Settlers** and **Founders** can now move immediately after getting bought
+- **Enhancement** now allows embarked units to defend themselves
+- **Enhancement** now allows players to spend Gold to annex or puppet an allied City-State after 5 turns since allied with a City-State
+- Water-based Civilian units now gain the **Better Wayfinding** promotion
+- **Improved Radar** and **Brilliant Detonation** now allow 6 tiles from units to be always visible
+### Minor Changes
+- Uniques have been updated to Unciv 3.17.5/3.17.6 standards
+- Buffed the **Golden Enlightenment** and **Widespread Preachers** beliefs
+- Buffed and slightly balanced the **Inspirational Wonders** belief
+- Adjusted the **Warriors of God** belief
+- Increased **Enhancement**'s golden age extension from 125% to 200%
+- **Base**'s capital Gold generation has been increased from 7769420 to 42069777
+- **Base**'s empire-wide Gold generation has been increased from 6900 to 42000
+- **Base** now gives **Military** for free for the first 5 cities (from the first 4 cities)
+- Increased empire-wide Faith generation from 800 to 1000 \[doubled in capital\] (only for updated **Religion** buildings)
+- Increased great person points generation from 45 to 50
+- Increased **Base**'s specialist slots from 8 to 9
+- **Improved Radar**'s Sight has been increased from +2 to +3
+- **Better Wayfinding**'s Sight has been increased from +4 to +5
+- **Enhanced Vision**'s Movement has been increased from +2 to +3
+### Re-added Features
+- **Base**'s empire-wide Gold generation now applies to the capital again
+- **Brilliant Detonation** now provides +3 Sight again
+### Removed Features
+- **Religion** no longer gives Faith needed for founding a Pantheon (because Great Prophets handle that)\*
+- **Base** no longer provides instant 10x Gold\*
+- **Enhancement** no longer has the ability for units to move immediately after getting bought\*\*
+######\* Both uniques are no longer allowed for anything other than ruins, though it technically still works (3.17.5)
+######\*\* It works for individual units, but not for unit promotions or buildings (3.17.6)
+
 ## v1.9 (October 6, 2021 Update)
 *...?*
 ### Major Changes
