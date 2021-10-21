@@ -1,4 +1,13 @@
 # UnHax Changelog
+## v1.11 (October 21, 2021 Update)
+*idk what to do anymore*
+### Major Changes
+- **Enhancement** now gives **Pictish Courage** to all non-air Military units
+- **Base** now gives **Home Sweet Home** to all newly-trained units in the capital city
+- Forest and Jungle tiles are now treated as if they have roads when **Base** is built
+### Removed Features
+- Deleted the original **Religion** building
+
 ## v1.10 (October 9, 2021 Update)
 *me when the huge changes*
 ### Major Changes

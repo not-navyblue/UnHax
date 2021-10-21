@@ -6,12 +6,8 @@ No "Sandbox" difficulty or overpowered nations included. How you're gonna get th
 Fair warning: Use at your own risk as this mod *can* ruin your experience.<br>
 If it did, then... what did you expect? It's a cheat mod, after all lol
 
-### Quick Notice:
-**Religion** has been split into two buildings; however, for compatibility reasons, the original building has been retained. 
-If you wish to try out the building split, please start a new game, as both buildings' features are identical otherwise.
-
-## What the mod contains:
-### Buildings:
+## What the mod contains
+### Buildings
 **UnHax Mode - Base**: an "*almost* one-size-fits-all" building that provides many things such as gold, food, culture, 
 science, production, happiness, unit XP, and great person points (except Great General and Great Prophet), all in large 
 quantities, as well as some unit promotions that are otherwise exclusive or difficult to obtain, and extra specialist slots. 
@@ -33,7 +29,7 @@ buying it with Gold once the **Base** building has been built in the capital. (A
 **Base**, **Military**, and **Religion**. It shares multiple limitations and mode of acquisition with the **Religion** building, 
 sans the requirement of the "Enable Religion" option. (Added in v1.3)<br>
 
-### Units:
+### Units
 #### **Founder**
 - Civilian/Military unit, 4 Movement, 50 Strength
 - Upgrades from Settler
@@ -42,7 +38,7 @@ Can move immediately after bought
 - Receives **Founder's Frontier** for free
 - Unlocked by **Founder's Entrance**
 
-### Unit Promotions:
+### Unit Promotions
 **Mastery of War** and **Air Superiority**: +110% Strength when attacking, +130% Strength when defending (**Mastery of War**) 
 Damage taken from interception reduced by 90% (**Air Superiority**), 1 additional attack per turn, 
 Ignores Zone of Control (**Mastery of War**) (Added in v1.2)<br>
@@ -64,16 +60,16 @@ performs an action, All healing effects doubled (Added in v1.5)<br>
 **Founder's Frontier**: +70% Strength when defending, May heal outside of friendly territory, Unit will heal every turn, even if it 
 performs an action \[Exclusive to **Founder**\] (Added in v1.8)<br>
 
-## Changelog:
+## Changelog
 *See [CHANGELOG.md](https://github.com/not-navyblue/UnHax/blob/main/CHANGELOG.md).*
 
-## Features planned to be added soon™:
+## Features planned to be added soon™
 - unhax-exclusive unit promotions (Added in v1.2 - v1.8; more to come, probably)
 - probably more to add on unhax mode itself (continuous?)
 - ???
 
-## Credits:
-### Icons:
+## Credits
+### Icons
 - [**Base**](https://icooon-mono.com/10991-display-pictogram/?lang=en), 
 [**Monotheistic/Polytheistic Religion**](https://icooon-mono.com/11966-pigeon-icon-2/?lang=en), 
 [**Military+**](https://icooon-mono.com/12221-ancient-greek-helmet-icon-3/?lang=en), 
@@ -93,7 +89,8 @@ via [Flaticon](https://www.flaticon.com/authors/freepik)
 via [Flaticon](https://www.flaticon.com/authors/eucalyp)
 
 - [**Panacea's Gift**](https://thenounproject.com/search/?q=health&i=2492427) icon by [Linker](https://thenounproject.com/linker) from The Noun Project
-### Others:
+
+### Others
 - Mod inspired by [paontv's "Difficulty_Sandbox"](https://github.com/paontv/Difficulty_Sandbox/), specifically the buildings
 
 ###### *this readme will change over time

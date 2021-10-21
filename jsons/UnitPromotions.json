@@ -76,5 +76,16 @@
 			"6 tiles in every direction always visible",
 			"[Great General] is earned [80]% faster"
 		]
+	},
+	
+	// Uniques that should be kept on upgrades
+	// These are added in for compatibility	with RekMOD
+	{
+		"name": "Pictish Courage", // only for Pictish Warrior and subsequent upgrades
+		"uniques": ["No movement cost to pillage", "[+20]% Strength <when fighting in [Foreign Land] tiles>"]
+	},
+	{
+		"name": "Home Sweet Home", // only for Mehal Sefari and subsequent upgrades
+		"uniques": ["[+30]% Strength decreasing with distance from the capital"]
 	}
 ]
