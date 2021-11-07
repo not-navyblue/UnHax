@@ -14,21 +14,20 @@
 		"production": 690,
 		"happiness": 690,
 		"greatPersonPoints": {
-			"Great Scientist": 50,
-			"Great Artist": 50,
-			"Great Merchant": 50,
-			"Great Engineer": 50
+			"Great Scientist": 60,
+			"Great Artist": 60,
+			"Great Merchant": 60,
+			"Great Engineer": 60
 		},
 		"specialistSlots": {
-			"Scientist": 9,
-			"Artist": 9,
-			"Merchant": 9,
-			"Engineer": 9,
+			"Scientist": 10,
+			"Artist": 10,
+			"Merchant": 10,
+			"Engineer": 10,
 		},
 		"uniques": [
 			"[3] free [Founder] units appear",
-			"[3] free [Gandhi's Wrath] units appear",
-			"[+4] population [in this city]",
+			"[+9] population [in this city]",
 			"[+690 Culture] [in all cities]",
 			"[+777 Science] [in all cities]",
 			"[+690 Production] [in all cities]",
@@ -78,15 +77,13 @@
 		"uniques": [
 			"[2] free [Great Prophet] units appear",
 			"May choose [2] additional [Pantheon] beliefs when [founding] a religion",
-			"May choose [1] additional [Follower] beliefs when [enhancing] a religion",
+			"May choose [2] additional [Follower] beliefs when [enhancing] a religion",
 			"May choose [1] additional [Enhancer] beliefs when [enhancing] a religion",
 			"May not generate great prophet equivalents naturally",
 			"May buy [Great Prophet] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
 			"[Faith] cost of purchasing [Civilian] units [-75]%"
 			"[+1000 Faith] [in all cities]",
-			"May buy [UnHax Mode - The Long Count] buildings for [0] [Gold] [in this city]",
 			"Cannot be built with [UnHax Mode - Monotheistic Religion]",
-			"Cannot be built with [UnHax Mode - Religion]",
 			"Hidden when religion is disabled",
 			"Destroyed when the city is captured",
 			"Unbuildable",
@@ -112,15 +109,13 @@
 		"uniques": [
 			"[2] free [Great Prophet] units appear",
 			"May choose [1] additional [Founder] beliefs when [founding] a religion",
-			"May choose [1] additional [Follower] beliefs when [enhancing] a religion",
+			"May choose [2] additional [Follower] beliefs when [enhancing] a religion",
 			"May choose [2] additional [Enhancer] beliefs when [enhancing] a religion",
 			"May not generate great prophet equivalents naturally",
 			"May buy [Great Prophet] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
 			"[Faith] cost of purchasing [Civilian] units [-75]%"
 			"[+1000 Faith] [in all cities]",
-			"May buy [UnHax Mode - The Long Count] buildings for [0] [Gold] [in this city]",
 			"Cannot be built with [UnHax Mode - Polytheistic Religion]",
-			"Cannot be built with [UnHax Mode - Religion]",
 			"Hidden when religion is disabled",
 			"Destroyed when the city is captured",
 			"Unbuildable",
@@ -196,11 +191,11 @@
 			"Golden Age length increased by [200]%",
 			"[+50]% growth [in all cities]",
 			"[+150]% Strength <for cities> <when defending>",
-			"Population loss from nuclear attacks [-200]% [in all cities]",
+			"Population loss from nuclear attacks [-300]% [in all cities]",
 			"-[100]% maintenance cost for buildings [in all cities]",
 			"Maintenance on roads & railroads reduced by [100]%",
-			"May capture killed [{non-air} {Military}] units",
-			"May capture killed [{Aircraft} {Military}] units",
+		//	"May capture killed [{non-air} {Military}] units",
+		//	"May capture killed [{Aircraft} {Military}] units",
 			"Embarked units can defend themselves",
 			"[{non-air} {Military}] units gain the [Quick Study] promotion",
 			"[{Fighter} {Military}] units gain the [Quick Study] promotion",
@@ -221,37 +216,5 @@
 		],
 		"cost": 420000000,
 		"maintenance": 6969
-	},
-	
-	{ // compatibility with v1.9 and below
-		"name": "UnHax Mode - Religion",
-		"civilopediaText": [
-			{
-				"text": "A building made specifically for religion-enabled games, generating Faith at large quantities, and allows for immediate founding and enhancing of religions. It has similar limitations as the main building, with an extra caveat of being unbuildable, but can be bought in the capital city once the main building has been built.",
-				"starred": true
-			},
-			{
-				"text": "Outdated; please replace building or start a new game.",
-				"starred": true
-			}
-		]
-		"faith": 800,
-		"uniques": [
-			"[2] free [Great Prophet] units appear",
-			"May choose [2] additional [Pantheon] beliefs when [founding] a religion",
-			"May choose [1] additional [Follower] beliefs when [enhancing] a religion",
-			"May choose [1] additional [Enhancer] beliefs when [enhancing] a religion",
-			"May not generate great prophet equivalents naturally",
-			"May buy [Great Prophet] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
-			"[Faith] cost of purchasing [Civilian] units [-75]%"
-			"[+800 Faith] [in all cities]",
-			"Cannot be built with [UnHax Mode - Monotheistic Religion]",
-			"Cannot be built with [UnHax Mode - Polytheistic Religion]",
-			"Hidden when religion is disabled",
-			"Destroyed when the city is captured",
-			"Unbuildable"
-		],
-		"cost": 420000000,
-		"maintenance": 7777
 	}
 ]

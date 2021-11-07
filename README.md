@@ -31,12 +31,10 @@ sans the requirement of the "Enable Religion" option. (Added in v1.3)<br>
 
 ### Units
 #### **Founder**
-- Civilian/Military unit, 4 Movement, 50 Strength
+- Civilian Unit, 5 Movement
 - Upgrades from Settler
-- Requires 7 population, Cannot attack, All tiles cost 1 movement point, Cannot capture cities, Uncapturable, 
-Can move immediately after bought
-- Receives **Founder's Frontier** for free
-- Unlocked by **Founder's Entrance**
+- Requires at least 4 population
+- All tiles cost 1 movement point, Uncapturable, Can move immediately after bought
 
 ### Unit Promotions
 **Mastery of War** and **Air Superiority**: +110% Strength when attacking, +130% Strength when defending (**Mastery of War**) 
@@ -57,9 +55,6 @@ Ignores Zone of Control (**Mastery of War**) (Added in v1.2)<br>
 **Panacea's Gift**: Heals 40 damage if it kills a Unit, May heal outside of friendly territory, Unit will heal every turn even if it 
 performs an action, All healing effects doubled (Added in v1.5)<br>
 
-**Founder's Frontier**: +70% Strength when defending, May heal outside of friendly territory, Unit will heal every turn, even if it 
-performs an action \[Exclusive to **Founder**\] (Added in v1.8)<br>
-
 ## Changelog
 *See [CHANGELOG.md](https://github.com/not-navyblue/UnHax/blob/main/CHANGELOG.md).*
 
@@ -76,9 +71,8 @@ performs an action \[Exclusive to **Founder**\] (Added in v1.8)<br>
 [**Enhancement**](https://icooon-mono.com/12266-arrow-up-icon-5/?lang=en), 
 [**Mastery of War**](https://icooon-mono.com/10684-sword-icon-1/?lang=en), 
 [**Air**](https://icooon-mono.com/10738-jet-fighter/?lang=en) [**Superiority**](https://icooon-mono.com/10061-star-icon-4/?lang=en), 
-[**Civilian Assistance**](https://icooon-mono.com/11272-stethoscope-icon-3/?lang=en), 
-[**Founder**, **Founder's Entrance**, and **Founder's Frontier**](https://icooon-mono.com/10066-flag-icon-3/?lang=en) 
-icons from [icooon mono](https://icooon-mono.com/)
+[**Civilian Assistance**](https://icooon-mono.com/11272-stethoscope-icon-3/?lang=en), and
+[**Founder**](https://icooon-mono.com/10066-flag-icon-3/?lang=en) icons from [icooon mono](https://icooon-mono.com/)
 
 - [**Brilliant Detonation**](https://www.flaticon.com/free-icon/explosion_3888655), 
 [**Enhanced Vision**](https://www.flaticon.com/free-icon/vision_561155), and 

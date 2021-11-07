@@ -1,4 +1,26 @@
 # UnHax Changelog
+## v1.12 (November 7, 2021 Update)
+*i hate naturally spawning founders*
+### Major Changes
+- **Founders** are no longer Military units, to prevent it from naturally spawning as barbarian units (yes, they actually spawn naturally)\*
+### Minor Changes
+- The **Religion** buildings now allow 2 extra Follower beliefs to be selected when enhancing religions (from just 1)
+- Increased initial movement point of **Founder** from 4 to 5
+- Reduced the required population of **Founders** from 7 to 4 (this is a buff trust me)
+- Decreased population loss from nukes in all cities from -200% to -300% (again, this is a buff trust me)
+- Increased great people points generation from 50 to 60
+- Increased population increase given by **Base** from 4 to 9
+- Increased every specialist slot from 9 to 10
+### Bugfixes
+- ACTUALLY deleted the original **Religion** building
+- Removed some unused uniques
+### Removed Features
+- Removed **Founder's Entrance**, allowing the **Founder** to be accessible immediately
+- Removed **Founder's Frontier** following a major change with **Founders**
+- **Enhancement** no longer grants Military units the ability to capture enemy Military units\*\*
+###### \* Naturally, this means nerfing the unit just to prevent it from spawning naturally as barbarians.
+###### \*\* This no longer works in buildings.
+
 ## v1.11 (October 21, 2021 Update)
 *idk what to do anymore*
 ### Major Changes
