@@ -39,13 +39,6 @@ BuildingIcons/UnHax Mode - Polytheistic Religion
   orig: 256, 256
   offset: 0, 0
   index: -1
-BuildingIcons/UnHax Mode - Religion
-  rotate: false
-  xy: 1768, 485
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
 TileSets/FantasyHex/Units/Founder
   rotate: false
   xy: 4, 4
@@ -54,20 +47,6 @@ TileSets/FantasyHex/Units/Founder
   offset: 0, 0
   index: -1
 UnitIcons/Founder
-  rotate: false
-  xy: 976, 485
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-TechIcons/Founder's Entrance
-  rotate: false
-  xy: 976, 485
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/Founder's Frontier
   rotate: false
   xy: 976, 485
   size: 256, 256

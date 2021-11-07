@@ -12,14 +12,10 @@
 	{
 		"name": "Founder",
 		"unitType": "Civilian",
-		"movement": 4,
-		"strength": 50,
+		"movement": 5,
 		"cost": 7770000,
-		"requiredTech": "Founder's Entrance",
 		"uniques": ["Founds a new city", "Excess Food converted to Production when under construction", "Uncapturable", 
-			"Can move immediately once bought", "Requires at least [7] population", "Cannot attack", 
-			"All tiles cost 1 movement", "Unable to capture cities"],
-		"promotions": ["Founder's Frontier"],
+			"Can move immediately once bought", "Requires at least [4] population", "All tiles cost 1 movement"],
 		"hurryCostModifier": 700
-	},
+	}
 ]
