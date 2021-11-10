@@ -1,4 +1,18 @@
 # UnHax Changelog
+## v1.13 (November 10, 2021 Update)
+*time for a change (probably)*
+### Major Changes
+- The **Base** building can now be directly obtained by human players
+- Added a new building, **UnHax Mode - Original Method**, that allows any player to unlock the **Base** building the old way
+- All buildings (except **Original Method**) no longer have an extremely high cost
+### Minor Changes
+- **Base** no longer requires maintenance
+- **Polytheistic Religion** allows for selecting 1 more Enhancer belief when enhancing a religion
+- **Monotheistic Religion** allows for selecting 1 more Founder belief when founding a religion
+### Re-added Features
+- **Enhancement** now allows non-Missile Military units to capture enemy non-Missile Military units again (via a new unit promotion)
+- **Enhanced Vision**, **Better Wayfinding**, **Improved Radar**, and **Brilliant Detonation** have been updated to allow units to move immediately once bought again
+
 ## v1.12 (November 7, 2021 Update)
 *i hate naturally spawning founders*
 ### Major Changes

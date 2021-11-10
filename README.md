@@ -1,33 +1,55 @@
 # UnHax
 An overpowered, building-based cheat mod for UnCiv. Really, that's it.<br>
-No "Sandbox" difficulty or overpowered nations included. How you're gonna get the cheat is all up to you to figure it out.
-(No, it's not using a different mod linked below, by the way, but it still works anyways. Hint: "Tradition" social policy.)<br>
+No "Sandbox" difficulty or overpowered nations included. Human players can directly 
+access the cheat buildings for free, while anyone, including the AI Civs, can also 
+utilize the original method of obtaining it. (Please read the **Base** building's 
+Civilopedia entry on how to do the original method.)<br>
 
 Fair warning: Use at your own risk as this mod *can* ruin your experience.<br>
 If it did, then... what did you expect? It's a cheat mod, after all lol
 
+### Recommendation/s
+UnHax is best used with [Strategic Resource Visibility](https://github.com/not-navyblue/Strategic-Resource-Visibility) for the maximum UnCiv hax.
+
+### Mod Compatibility
+Starting with v1.13, the direct method of the **Base** building will blocked if there is any extension mod that modifies the Palace 
+or adds a unique counterpart of it (which, hopefully, there is none). Compatible base ruleset mods are exempted, however.
+
 ## What the mod contains
 ### Buildings
+**UnHax Mode - Original Method**: a building made for any players, including the AIs, to obtain the **Base** building 
+via the original method. Does not do anything else other than this simple purpose.
+- Added in v1.13<br>
+
 **UnHax Mode - Base**: an "*almost* one-size-fits-all" building that provides many things such as gold, food, culture, 
 science, production, happiness, unit XP, and great person points (except Great General and Great Prophet), all in large 
 quantities, as well as some unit promotions that are otherwise exclusive or difficult to obtain, and extra specialist slots. 
-Limited to the capital city only, cannot be sold, and is destroyed when the capital falls. (Added in v1.0; renamed in v1.1)<br>
+Limited to the capital city only, cannot be sold, and is destroyed when the capital falls. From v1.13 onwards, players have 
+the option to choose the direct method or the original method to acquire this building.
+- Added in v1.0
+- Renamed in v1.1
+- Method of acquisition updated in v1.13<br>
 
 **UnHax Mode - Religion**: a building made specifically for religion-enabled games, generating Faith at large quantities, 
 and allows for immediate founding and enhancing of religions. It has similar limitations as the **Base** building, 
 with an extra caveat of being unbuildable, but can be bought in the capital city once **Base** has been built. **Religion** is 
 split into two buildings, **Monotheistic Religion** and **Polytheistic Religion**, both of which give different belief slots 
 for founding/enhancing a religion but otherwise functions identically the same. 
-(Added in v1.1; method of acquisition changed in v1.5; split in v1.10)<br>
+- Added in v1.1
+- Method of acquisition changed in v1.5
+- Split in v1.10<br>
 
 **UnHax Mode - Military**: a military-oriented building that provides free unit promotions not 
 provided (or previously provided) by **Base**, increased city strength and city health, and others. It has similar 
 limitations as the **Religion** building, but unlike the first two buildings, it can be built on all cities by 
-buying it with Gold once the **Base** building has been built in the capital. (Added in v1.2; renamed in v1.5)<br>
+buying it with Gold once the **Base** building has been built in the capital. 
+- Added in v1.2
+- Renamed in v1.5<br>
 
 **UnHax Mode - Enhancement**: a building with assorted bonuses to build on the already plentiful additions provided by 
 **Base**, **Military**, and **Religion**. It shares multiple limitations and mode of acquisition with the **Religion** building, 
-sans the requirement of the "Enable Religion" option. (Added in v1.3)<br>
+sans the requirement of the "Enable Religion" option. 
+- Added in v1.3<br>
 
 ### Units
 #### **Founder**
@@ -37,35 +59,70 @@ sans the requirement of the "Enable Religion" option. (Added in v1.3)<br>
 - All tiles cost 1 movement point, Uncapturable, Can move immediately after bought
 
 ### Unit Promotions
-**Mastery of War** and **Air Superiority**: +110% Strength when attacking, +130% Strength when defending (**Mastery of War**) 
-Damage taken from interception reduced by 90% (**Air Superiority**), 1 additional attack per turn, 
-Ignores Zone of Control (**Mastery of War**) (Added in v1.2)<br>
+#### **Mastery of War** / **Air Superiority**
+- +110% Strength when attacking
+- +130% Strength when defending (**Mastery of War**) 
+- Damage taken from interception reduced by 90% (**Air Superiority**)
+- 1 additional attack per turn
+- Ignores Zone of Control (**Mastery of War**)
+- Added in v1.2
 
-**Brilliant Detonation**: +365% Strength when attacking, Damage taken from interception reduced by 90% (for Atomic Bombers), 
-+5 Range, Great General is earned 80% faster, +4 Sight, 6 tiles in every direction always visible (Added in v1.2)<br>
+#### **Brilliant Detonation**
+- +365% Strength when attacking
+- Damage taken from interception reduced by 90% (for Atomic Bombers), 
+- +5 Range
+- Great General is earned 80% faster
+- +4 Sight
+- 6 tiles in every direction always visible 
+- Can move immediately once bought
+- Added in v1.2
 
-**Enhanced Vision**: +2 Visibility Range, +3 Movement, Normal vision when embarked, Ignores terrain cost (Added in v1.2)<br>
+#### **Enhanced Vision**
+- +2 Visibility Range
+- +3 Movement
+- Normal vision when embarked
+- Ignores terrain cost 
+- Can move immediately once bought
+- Added in v1.2
 
-**Better Wayfinding**: +5 Visibility Range, +1 Movement, Can see invisible Submarine units, Can pass through impassable tiles (Added in v1.2)<br>
+#### **Better Wayfinding**
+- +5 Visibility Range
+- +1 Movement
+- Can see invisible Submarine units
+- Can pass through impassable tiles
+- Can move immediately once bought
+- Added in v1.2
 
-**Improved Radar**: +4 Range, +4 Sight, 6 tiles in every direction always visible (Added in v1.2)<br>
+#### **Improved Radar**
+- +4 Range
+- +4 Sight
+- 6 tiles in every direction always visible
+- Can move immediately once bought
+- Added in v1.2
 
-**Civilian Assistance**: All adjacent units heal 60 extra HP when healing, Bonus for units in 2-tile radius 15% (Added in v1.3)<br>
+#### **Civilian Assistance**
+- All adjacent units heal 60 extra HP when healing
+- Bonus for units in 2-tile radius 15%
+- Added in v1.3
 
-**Panacea's Gift**: Heals 40 damage if it kills a Unit, May heal outside of friendly territory, Unit will heal every turn even if it 
-performs an action, All healing effects doubled (Added in v1.5)<br>
+#### **Panacea's Gift**
+- Heals 40 damage if it kills a Unit
+- May heal outside of friendly territory
+- Unit will heal every turn even if it performs an action
+- All healing effects doubled
+- Added in v1.5
+
+#### **Capture Master**
+- May capture killed non-air Military units
+- May capture killed Aircraft Military units
+- Added in v1.13
 
 ## Changelog
 *See [CHANGELOG.md](https://github.com/not-navyblue/UnHax/blob/main/CHANGELOG.md).*
 
-## Features planned to be added soon™
-- unhax-exclusive unit promotions (Added in v1.2 - v1.8; more to come, probably)
-- probably more to add on unhax mode itself (continuous?)
-- ???
-
 ## Credits
 ### Icons
-- [**Base**](https://icooon-mono.com/10991-display-pictogram/?lang=en), 
+- [**Base**/**Original Method**](https://icooon-mono.com/10991-display-pictogram/?lang=en), 
 [**Monotheistic/Polytheistic Religion**](https://icooon-mono.com/11966-pigeon-icon-2/?lang=en), 
 [**Military+**](https://icooon-mono.com/12221-ancient-greek-helmet-icon-3/?lang=en), 
 [**Enhancement**](https://icooon-mono.com/12266-arrow-up-icon-5/?lang=en), 
@@ -84,7 +141,9 @@ via [Flaticon](https://www.flaticon.com/authors/eucalyp)
 
 - [**Panacea's Gift**](https://thenounproject.com/search/?q=health&i=2492427) icon by [Linker](https://thenounproject.com/linker) from The Noun Project
 
+- [**Capture Master**](https://thenounproject.com/search/?q=net&i=429125) icon by [Mary Bowie](https://thenounproject.com/mvilam) from the Noun Project
+
 ### Others
-- Mod inspired by [paontv's "Difficulty_Sandbox"](https://github.com/paontv/Difficulty_Sandbox/), specifically the buildings
+- Mod inspired by [paontv's "Difficulty_Sandbox" mod](https://github.com/paontv/Difficulty_Sandbox/), specifically the buildings
 
 ###### *this readme will change over time

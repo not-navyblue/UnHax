@@ -8,6 +8,7 @@
 			"Ignores Zone of Control"
 		]
 	},
+	
 	{
 		"name": "Air Superiority",
 		"uniques": [
@@ -16,6 +17,7 @@
 			"[1] additional attacks per turn"
 		]
 	},
+	
 	{
 		"name": "Panacea's Gift",
 		"uniques": [
@@ -25,6 +27,7 @@
 			"All healing effects doubled"
 		]
 	},
+	
 	{
 		"name": "Civilian Assistance",
 		"uniques": [
@@ -32,32 +35,39 @@
 			"Bonus for units in 2 tile radius 15%"
 		]
 	},
+	
 	{
 		"name": "Enhanced Vision",
 		"uniques": [
 			"[+2] Sight",
 			"[+3] Movement",
 			"Normal vision when embarked",
-			"Ignores terrain cost"
+			"Ignores terrain cost",
+			"Can move immediately once bought"
 		]
 	},
+	
 	{
 		"name": "Better Wayfinding",
 		"uniques": [
 			"[+5] Sight",
 			"[+1] Movement",
 			"Can see invisible [Submarine] units",
-			"Can pass through impassable tiles"
+			"Can pass through impassable tiles",
+			"Can move immediately once bought"
 		]
 	},
+	
 	{
 		"name": "Improved Radar",
 		"uniques": [
 			"[+4] Range",
 			"[+4] Sight",
-			"6 tiles in every direction always visible"
+			"6 tiles in every direction always visible",
+			"Can move immediately once bought"
 		]
 	},
+	
 	{
 		"name": "Brilliant Detonation",
 		"uniques": [
@@ -66,7 +76,16 @@
 			"[+5] Range",
 			"[+4] Sight",
 			"6 tiles in every direction always visible",
-			"[Great General] is earned [80]% faster"
+			"[Great General] is earned [80]% faster",
+			"Can move immediately once bought"
+		]
+	},
+	
+	{
+		"name": "Capture Master",
+		"uniques": [
+			"May capture killed [{non-air} {Military}] units",
+			"May capture killed [{Aircraft} {Military}] units"
 		]
 	},
 	
