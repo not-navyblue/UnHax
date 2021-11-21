@@ -4,6 +4,13 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Ecalap
+  rotate: false
+  xy: 532, 461
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/UnHax Mode - Base
   rotate: false
   xy: 1240, 1721
@@ -54,6 +61,13 @@ TileSets/FantasyHex/Units/Founder
   offset: 0, 0
   index: -1
 UnitIcons/Founder
+  rotate: false
+  xy: 268, 305
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Founder's Frontier
   rotate: false
   xy: 268, 305
   size: 256, 256

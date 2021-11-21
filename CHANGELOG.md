@@ -1,4 +1,31 @@
 # UnHax Changelog
+## v1.14 (November 21, 2021 Update)
+*more hax more glory*
+### Major Changes
+- Added unique Palace replacements for the "Hack Land" and the "Upside Down" civs when their respective mods are active
+- Added a new Pantheon and a new Enhancer belief
+- Doubled the base movement points of the **Founder** (10 vs 5)
+- **Founder** units gain the Woodsman promotion for free
+- Mountains no longer deal 50 tile damage when this mod is active (no, not even Carthage's units can take damage)
+- Great People can now be bought with Faith when any of the **Religion** buildings have been built
+- Great People (including the Khan) can now move immediately when bought
+- **Enhanced Vision** now allows units to move through impassable tiles except Natural Wonders
+### Minor Changes
+- Slightly buffed the **Home Sweet Home** unit promotion
+- Buffed the **Prophet's Leadership** and **Religious Diplomacy** Founder beliefs with changing bonuses when entering the Industrial era
+- Buffed the **Warriors of God** Enhancer belief with increasing bonuses when entering the Renaissance era
+- Buffed the **Golden Enlightenment** Follower belief with increasing bonuses upon discovering the Theology and Printing Press techs individually
+- Buffed the **God-King** Pantheon with additional bonuses when entering the Modern era
+- Buffed the **Inspirational Wonders** Follower belief
+- Empire-wide stat generation from **Enhancement** has been increased from 100% to 120%
+- Reduced **Original Method**'s Production cost
+### Re-added Features
+- The **Founder** unit becomes a pseudo-Military unit again (this time it no longer spawns as a Barbarian unit)
+- **Founder's Frontier** has been re-added as an exclusive free promotion for the **Founder** unit
+### Removed Features
+- **Enhanced Vision**, **Better Wayfinding**, **Improved Radar**, and **Brilliant Detonation** no longer allow units to move immediately once bought\*
+###### \* Apparently it doesn't work on unit promotions again.
+
 ## v1.13 (November 10, 2021 Update)
 *time for a change (probably)*
 ### Major Changes

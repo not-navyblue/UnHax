@@ -29,6 +29,15 @@
 	},
 	
 	{
+		"name": "Founder's Frontier",
+		"uniques": [
+			"[+60]% Strength <when defending>",
+			"May heal outside of friendly territory",
+			"Unit will heal every turn, even if it performs an action"
+		]
+	},
+	
+	{
 		"name": "Civilian Assistance",
 		"uniques": [
 			"All adjacent units heal [60] extra HP when healing",
@@ -43,7 +52,7 @@
 			"[+3] Movement",
 			"Normal vision when embarked",
 			"Ignores terrain cost",
-			"Can move immediately once bought"
+			"Can pass through impassable tiles"
 		]
 	},
 	
@@ -53,8 +62,7 @@
 			"[+5] Sight",
 			"[+1] Movement",
 			"Can see invisible [Submarine] units",
-			"Can pass through impassable tiles",
-			"Can move immediately once bought"
+			"Can pass through impassable tiles"
 		]
 	},
 	
@@ -63,8 +71,7 @@
 		"uniques": [
 			"[+4] Range",
 			"[+4] Sight",
-			"6 tiles in every direction always visible",
-			"Can move immediately once bought"
+			"6 tiles in every direction always visible"
 		]
 	},
 	
@@ -76,8 +83,7 @@
 			"[+5] Range",
 			"[+4] Sight",
 			"6 tiles in every direction always visible",
-			"[Great General] is earned [80]% faster",
-			"Can move immediately once bought"
+			"[Great General] is earned [80]% faster"
 		]
 	},
 	
@@ -97,6 +103,6 @@
 	},
 	{
 		"name": "Home Sweet Home", // only for Mehal Sefari and subsequent upgrades
-		"uniques": ["[+30]% Strength decreasing with distance from the capital"]
+		"uniques": ["[+40]% Strength decreasing with distance from the capital"]
 	}
 ]

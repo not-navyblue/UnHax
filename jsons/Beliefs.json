@@ -2,60 +2,132 @@
 	{
 		"name": "Tidal Connection",
 		"type": "Pantheon",
-		"uniques": ["[+2 Production, +2 Food, +2 Gold, +1 Faith] from every [Coast]", "[+2 Production, +2 Food, +2 Gold, +1 Faith] from every [Ocean]", "+[50]% Strength for units fighting in [Water] tiles"]
+		"uniques": [
+			"[+2 Production, +2 Food, +2 Gold, +1 Faith] from every [Coast]", 
+			"[+2 Production, +2 Food, +2 Gold, +1 Faith] from every [Ocean]", 
+			"+[50]% Strength for units fighting in [Water] tiles"
+		]
 	},
 	
 	{
 		"name": "The Frozen Mother",
 		"type": "Pantheon",
-		"uniques": ["[+2 Food, +4 Faith] from every [Snow]", "[+2 Production, +4 Faith] from every [Tundra]", "+[50]% Strength for units fighting in [Snow] tiles", "+[50]% Strength for units fighting in [Tundra] tiles"]
+		"uniques": [
+			"[+2 Food, +4 Faith] from every [Snow]", 
+			"[+2 Production, +4 Faith] from every [Tundra]", 
+			"+[50]% Strength for units fighting in [Snow] tiles", 
+			"+[50]% Strength for units fighting in [Tundra] tiles"
+		]
 	},
+	
+	{
+		"name": "Scorching Saint",
+		"type": "Pantheon",
+		"uniques": [
+			"[+7 Production, +7 Faith, +7 Science, +7 Gold] from every [Krakatoa]",
+			"[+7 Production, +7 Faith, +7 Science, +7 Culture] from every [Mount Fuji]",
+			"[+5 Gold, +5 Food, +5 Faith] from every [Desert]",
+			"+[50]% Strength for units fighting in [Desert] tiles"
+		]
+	}
 	
 	{
 		"name": "God-King",
 		"type": "Pantheon",
-		"uniques": ["[+5 Faith, +2 Gold, +2 Food, +2 Production, +2 Happiness, +2 Culture, +2 Science] from every [Palace]"]
+		"uniques": [
+			"[+5 Faith, +2 Gold, +2 Food, +2 Production, +2 Happiness, +2 Culture, +2 Science] [in capital] <before the [Modern era]>",
+			"[+10 Faith, +5 Gold, +5 Food, +5 Production, +5 Happiness, +5 Culture, +5 Science] [in capital] <starting from the [Modern era]>",
+			"[+5 Faith, +5 Gold, +5 Food, +5 Production, +5 Happiness, +5 Culture, +5 Science] [in other cities] <starting from the [Modern era]>"
+		]
 	},
 	
 	{
 		"name": "Religious Diplomacy",
 		"type": "Founder",
-		"uniques": ["When declaring friendship, both parties gain a [80]% boost to great people generation", "Resting point for influence with City-States following this religion [+25]", "[+33]% Natural religion spread [in foreign cities]"]
+		"uniques": [
+			"When declaring friendship, both parties gain a [80]% boost to great people generation", 
+			"Resting point for influence with City-States following this religion [+25]", 
+			"[+33]% Natural religion spread [in foreign cities] <before the [Industrial era]>",
+			"[+69]% Natural religion spread [in foreign cities] <starting from the [Industrial era]>",
+		]
 	},
 	
 	{
 		"name": "Prophet's Leadership",
 		"type": "Founder",
-		"uniques": ["[+60]% Spread Religion Strength <for [Great Prophet] units>", "[+60]% Spread Religion Strength <for [Missionary] units>", "[+7 Faith]"]
+		"uniques": [
+			"[+60]% Spread Religion Strength <for [Great Prophet] units>", 
+			"[+60]% Spread Religion Strength <for [Missionary] units>", 
+			"[+10]% Spread Religion Strength <for [Great Prophet] units> <starting from the [Industrial era]>", 
+			"[+10]% Spread Religion Strength <for [Missionary] units> <starting from the [Industrial era]>", 
+			"[+7 Faith] <before the [Industrial era]>", 
+			"[+6 Culture, +9 Faith] <starting from the [Industrial era]>"
+		]
 	},
 	
 	{
 		"name": "Inspirational Wonders",
 		"type": "Follower",
-		"uniques": ["[+3 Gold, +2 Science, +4 Faith, +7 Culture, +5 Happiness] from every [Natural Wonder]", "[+3 Production, +2 Science, +3 Faith, +6 Culture, +7 Happiness] from every [Wonder]"]
+		"uniques": [
+			"[+1 Production, +2 Science, +3 Gold, +4 Faith, +5 Happiness, +6 Food, +7 Culture] from every [Natural Wonder]",
+			"[+1 Food, +2 Science, +3 Production, +4 Faith, +5 Gold, +6 Culture, +7 Happiness] from every [Wonder]",
+			"Double Happiness from Natural Wonders"
+		]
 	},
 	
 	{
 		"name": "Golden Enlightenment",
 		"type": "Follower",
-		"uniques": ["[+3 Faith, +3 Happiness, +3 Gold, +3 Culture] from every [Gold Ore]", "+[100]% Natural religion spread [in all cities]"]
+		"uniques": [
+			"[+3 Faith, +3 Happiness, +3 Gold, +3 Culture] from every [Gold Ore]", 
+			"+[100]% Natural religion spread [in all cities]",
+			"[+10 Gold]",
+			"[+5 Gold] <after discovering [Theology]>",
+			"[+5 Gold] <after discovering [Printing Press]>",
+		]
 	},
 	
 	{
 		"name": "Hopeful Habitability",
 		"type": "Follower",
-		"uniques": ["[+4 Gold, +4 Faith] from every [Desert]", "[+4 Production, +4 Faith] from every [Snow]", "[+4 Food, +4 Faith] from every [Tundra]"]
+		"uniques": [
+			"[+4 Gold, +4 Faith] from every [Desert]", 
+			"[+4 Production, +4 Faith] from every [Snow]", 
+			"[+4 Food, +4 Faith] from every [Tundra]"
+		]
 	},
 	
 	{
 		"name": "Warriors of God",
 		"type": "Enhancer",
-		"uniques": ["[+45]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>", "[+55]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"]
+		"uniques": [
+			"[+45]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>", 
+			"[+55]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+			"[+15]% Strength <for [All] units> <when fighting in [Enemy Land] tiles> <starting from the [Renaissance era]>",
+			"[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <starting from the [Renaissance era]>",
+		]
 	},
 	
 	{
 		"name": "Widespread Preachers",
 		"type": "Enhancer",
-		"uniques": ["Religion naturally spreads to cities [+7] tiles away", "[+77]% Natural religion spread [in all cities]", "+[4] Movement for all [Great Prophet] units", "+[4] Movement for all [Missionary] units"]
+		"uniques": [
+			"Religion naturally spreads to cities [+7] tiles away", 
+			"[+77]% Natural religion spread [in all cities]", 
+			"[+4] Movement for all [Great Prophet] units", 
+			"[+4] Movement for all [Missionary] units"
+		]
+	},
+	
+	{
+		"name": "Naturalists",
+		"type": "Enhancer",
+		"uniques": [
+			"[+5 Faith, +3 Production, +2 Gold] from every [Forest]",
+			"[+5 Faith, +2 Science, +2 Production, +1 Food] from every [Jungle]",
+			"[+5 Faith, +3 Gold, +2 Food] from every [Oasis]",
+			"[+5 Faith, +4 Food, +1 Production] from every [Atoll]", 
+			"[+5 Faith, +4 Science, +1 Food] from every [Great Barrier Reef]"
+		]
 	}
 ]

@@ -1,9 +1,9 @@
 # UnHax
 An overpowered, building-based cheat mod for UnCiv. Really, that's it.<br>
-No "Sandbox" difficulty or overpowered nations included. Human players can directly 
-access the cheat buildings for free, while anyone, including the AI Civs, can also 
-utilize the original method of obtaining it. (Please read the **Base** building's 
-Civilopedia entry on how to do the original method.)<br>
+No "Sandbox" difficulty or overpowered nations included, but either from another mod can work just fine. 
+Human players can directly access the cheat buildings for free, while anyone, including 
+the AI Civs, can also utilize the original method of obtaining it. (Please read the **Base** 
+building's Civilopedia entry on how to do the original method.)<br>
 
 Fair warning: Use at your own risk as this mod *can* ruin your experience.<br>
 If it did, then... what did you expect? It's a cheat mod, after all lol
@@ -12,10 +12,16 @@ If it did, then... what did you expect? It's a cheat mod, after all lol
 UnHax is best used with [Strategic Resource Visibility](https://github.com/not-navyblue/Strategic-Resource-Visibility) for the maximum UnCiv hax.
 
 ### Mod Compatibility
-Starting with v1.13, the direct method of the **Base** building will blocked if there is any extension mod that modifies the Palace 
+- Starting with v1.13, the direct method of the **Base** building will blocked if there is any extension mod that modifies the Palace 
 or adds a unique counterpart of it (which, hopefully, there is none). Compatible base ruleset mods are exempted, however.
 
 ## What the mod contains
+### Changes from Vanilla/G&K rulesets
+- Palace allows players to directly buy the **Base** building for free
+- Settlers and Great People can move immediately once bought
+- Mountain tiles do not inflict 50 tile damage to units
+- **Home Sweet Home** is buffed (UnHax: +40% vs. normal: +30%)
+
 ### Buildings
 **UnHax Mode - Original Method**: a building made for any players, including the AIs, to obtain the **Base** building 
 via the original method. Does not do anything else other than this simple purpose.
@@ -51,12 +57,21 @@ buying it with Gold once the **Base** building has been built in the capital.
 sans the requirement of the "Enable Religion" option. 
 - Added in v1.3<br>
 
+**Hackerman Palace** / **Ecalap**: two Palace replacement buildings that automatically unlock the **Base** building and build the 
+**Military** building on all cities. Unique to Hack Land and Upside Down, respectively. **Hackerman Palace is intended to not have an icon.**
+- Added in v1.14<br>
+
 ### Units
 #### **Founder**
-- Civilian Unit, 5 Movement
+- Pseudo-Military Civilian Unit
+- 50 Strength
+- 10 Movement
 - Upgrades from Settler
 - Requires at least 4 population
-- All tiles cost 1 movement point, Uncapturable, Can move immediately after bought
+- All tiles cost 1 movement point
+- Uncapturable
+- Can move immediately after bought
+- Does not spawn as a Barbarian unit
 
 ### Unit Promotions
 #### **Mastery of War** / **Air Superiority**
@@ -73,8 +88,7 @@ sans the requirement of the "Enable Religion" option.
 - +5 Range
 - Great General is earned 80% faster
 - +4 Sight
-- 6 tiles in every direction always visible 
-- Can move immediately once bought
+- 6 tiles in every direction always visible
 - Added in v1.2
 
 #### **Enhanced Vision**
@@ -82,7 +96,7 @@ sans the requirement of the "Enable Religion" option.
 - +3 Movement
 - Normal vision when embarked
 - Ignores terrain cost 
-- Can move immediately once bought
+- Can pass through impassable tiles
 - Added in v1.2
 
 #### **Better Wayfinding**
@@ -90,14 +104,12 @@ sans the requirement of the "Enable Religion" option.
 - +1 Movement
 - Can see invisible Submarine units
 - Can pass through impassable tiles
-- Can move immediately once bought
 - Added in v1.2
 
 #### **Improved Radar**
 - +4 Range
 - +4 Sight
 - 6 tiles in every direction always visible
-- Can move immediately once bought
 - Added in v1.2
 
 #### **Civilian Assistance**
@@ -141,7 +153,10 @@ via [Flaticon](https://www.flaticon.com/authors/eucalyp)
 
 - [**Panacea's Gift**](https://thenounproject.com/search/?q=health&i=2492427) icon by [Linker](https://thenounproject.com/linker) from The Noun Project
 
-- [**Capture Master**](https://thenounproject.com/search/?q=net&i=429125) icon by [Mary Bowie](https://thenounproject.com/mvilam) from the Noun Project
+- [**Capture Master**](https://thenounproject.com/search/?q=net&i=429125) icon by [Mary Bowie](https://thenounproject.com/mvilam) from The Noun Project
+
+- [**Ecalap**](https://thenounproject.com/term/korean-palace/1797542) (original, unflipped) icon by [1516](https://thenounproject.com/1516.workroom) 
+from The Noun Project
 
 ### Others
 - Mod inspired by [paontv's "Difficulty_Sandbox" mod](https://github.com/paontv/Difficulty_Sandbox/), specifically the buildings

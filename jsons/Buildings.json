@@ -35,7 +35,7 @@
 			"Cannot be bought",
 			"Unsellable"
 		]
-		"cost": 69696969420,
+		"cost": 696969420,
 		"hurryCostModifier": 420
 	},
 
@@ -129,6 +129,11 @@
 			"May choose [2] additional [Enhancer] beliefs when [enhancing] a religion",
 			"May not generate great prophet equivalents naturally",
 			"May buy [Great Prophet] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
+			"May buy [Great Scientist] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
+			"May buy [Great Artist] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
+			"May buy [Great Merchant] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
+			"May buy [Great Engineer] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
+			"May buy [Great General] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
 			"[Faith] cost of purchasing [Civilian] units [-75]%"
 			"[+1000 Faith] [in all cities]",
 			"Cannot be built with [UnHax Mode - Monotheistic Religion]",
@@ -161,6 +166,11 @@
 			"May choose [2] additional [Enhancer] beliefs when [enhancing] a religion",
 			"May not generate great prophet equivalents naturally",
 			"May buy [Great Prophet] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
+			"May buy [Great Scientist] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
+			"May buy [Great Artist] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
+			"May buy [Great Merchant] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
+			"May buy [Great Engineer] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
+			"May buy [Great General] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
 			"[Faith] cost of purchasing [Civilian] units [-75]%"
 			"[+1000 Faith] [in all cities]",
 			"Cannot be built with [UnHax Mode - Polytheistic Religion]",
@@ -228,13 +238,13 @@
 		]
 		"uniques": [
 			"Free Technology", 
-			"[+100]% [Gold] [in all cities]",
-			"[+100]% [Science] [in all cities]",
-			"[+100]% [Culture] [in all cities]",
-			"[+100]% [Production] [in all cities]",
-			"[+100]% [Food] [in all cities]",
-			"[+100]% [Faith] [in all cities]",
-			"[+100]% [Happiness] [in all cities]",
+			"[+120]% [Gold] [in all cities]",
+			"[+120]% [Science] [in all cities]",
+			"[+120]% [Culture] [in all cities]",
+			"[+120]% [Production] [in all cities]",
+			"[+120]% [Food] [in all cities]",
+			"[+120]% [Faith] [in all cities]",
+			"[+120]% [Happiness] [in all cities]",
 			"[-75]% tile improvement construction time",
 			"Golden Age length increased by [200]%",
 			"[+50]% growth [in all cities]",
@@ -264,5 +274,42 @@
 		],
 		"maintenance": 6969,
 		"cost": 0
+	}
+	
+	// Unique Replacements
+	{
+		"name": "Hackerman Palace",
+		"isNationalWonder": true,
+		"uniqueTo": "Hack Land",
+		"replaces": "Palace",
+		"production": 69,
+		"science": 69,
+		"gold": 69,
+		"culture": 69,
+		"cityStrength": 69,
+		"cost": 1,
+		"uniques": [
+			"Indicates the capital city",
+			"Gain a free [UnHax Mode - Base] [in this city]",
+			"Gain a free [UnHax Mode - Military] [in all cities]"
+		]
+	},
+	
+	{
+		"name": "Ecalap",
+		"isNationalWonder": true,
+		"uniqueTo": "Upside-Down",
+		"replaces": "Palace",
+		"production": 69,
+		"science": 69,
+		"gold": 69,
+		"culture": 69,
+		"cityStrength": 69,
+		"cost": 1,
+		"uniques": [
+			"Indicates the capital city",
+			"Gain a free [UnHax Mode - Base] [in this city]",
+			"Gain a free [UnHax Mode - Military] [in all cities]"
+		]
 	}
 ]

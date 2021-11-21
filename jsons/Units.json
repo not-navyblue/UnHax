@@ -5,17 +5,148 @@
 		"movement": 2,
 		"cost": 106,
 		"upgradesTo": "Founder",
-		"uniques": ["Founds a new city", "Excess Food converted to Production when under construction",
-			"Can move immediately once bought", "Requires at least [2] population"],
+		"uniques": [
+			"Founds a new city", 
+			"Excess Food converted to Production when under construction",
+			"Can move immediately once bought", 
+			"Requires at least [2] population"
+		],
 		"hurryCostModifier": 20
 	},
+	
 	{
 		"name": "Founder",
 		"unitType": "Civilian",
-		"movement": 5,
+		"strength": 50,
+		"movement": 10,
 		"cost": 7770000,
-		"uniques": ["Founds a new city", "Excess Food converted to Production when under construction", "Uncapturable", 
-			"Can move immediately once bought", "Requires at least [4] population", "All tiles cost 1 movement"],
+		"uniques": [
+			"Founds a new city", 
+			"Excess Food converted to Production when under construction", 
+			"Uncapturable", 
+			"Can move immediately once bought", 
+			"Requires at least [4] population", 
+			"All tiles cost 1 movement",
+			"Never appears as a Barbarian unit", 
+			"Cannot attack", 
+			"Unable to capture cities"
+		],
+		"promotions": [
+			"Founder's Frontier",
+			"Woodsman"
+		]
 		"hurryCostModifier": 700
+	},
+	
+	{
+		"name": "Great Artist",
+		"unitType": "Civilian",
+		"uniques": [
+			"Can start an [8]-turn golden age", 
+			"Can construct [Landmark]", 
+			"Great Person - [Culture]", 
+			"Can move immediately once bought", 
+			"Unbuildable", 
+			"Uncapturable"
+		],
+		"movement": 2
+	},
+	
+	{
+		"name": "Great Scientist",
+		"unitType": "Civilian",
+		"uniques": [
+			"Can hurry technology research", 
+			"Can construct [Academy]", 
+			"Great Person - [Science]", 
+			"Can move immediately once bought", 
+			"Unbuildable", 
+			"Uncapturable"
+		],
+		"movement": 2
+	},
+	
+	{
+		"name": "Great Merchant",
+		"unitType": "Civilian",
+		"uniques": [
+			"Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
+			"Can construct [Customs house]", 
+			"Great Person - [Gold]", 
+			"Can move immediately once bought", 
+			"Unbuildable", 
+			"Uncapturable"
+		],
+		"movement": 2
+	},
+	
+	{
+		"name": "Great Engineer",
+		"unitType": "Civilian",
+		"uniques": [
+			"Can speed up construction of a building", 
+			"Can construct [Manufactory]", 
+			"Great Person - [Production]", 
+			"Can move immediately once bought", 
+			"Unbuildable", 
+			"Uncapturable"
+		],
+		"movement": 2
+	},
+	
+	{
+		"name": "Great Prophet",
+		"unitType": "Civilian",
+		"uniques": [
+			"Can construct [Holy site] if it hasn't used other actions yet", 
+			"Can [Spread Religion] [4] times",
+			"Removes other religions when spreading religion", 
+			"May found a religion", 
+			"May enhance a religion", 
+			"May enter foreign tiles without open borders", 
+			"[-1] Sight", 
+			"Great Person - [Faith]", 
+			"Can move immediately once bought", 
+			"Unbuildable", 
+			"Religious Unit", 
+			"Hidden when religion is disabled", 
+			"Takes your religion over the one in their birth city"
+		],
+		"movement": 2,
+		"religiousStrength": 1000
+	},
+	
+	{
+		"name": "Great General",
+		"unitType": "Civilian",
+		"uniques": [
+			"Can start an [8]-turn golden age", 
+			"Bonus for units in 2 tile radius 15%", 
+			"Can construct [Citadel]",
+			"Great Person - [War]", 
+			"Can move immediately once bought", 
+			"Unbuildable", 
+			"Uncapturable"
+		],
+		"movement": 2
+	},
+	
+	{
+		"name": "Khan",
+		"unitType": "Civilian",
+		"uniqueTo": "Mongolia",
+		"replaces": "Great General",
+		"uniques": [
+			"Can start an [8]-turn golden age",
+			"Bonus for units in 2 tile radius 15%",
+			"All adjacent units heal [+15] HP when healing", 
+			"[+15] HP when healing", 
+			"Can construct [Citadel]", 
+			"Great Person - [War]", 
+			"Can move immediately once bought", 
+			"Unbuildable", 
+			"Uncapturable"
+		],
+		"movement": 5
 	}
 ]
