@@ -34,7 +34,7 @@
 	{
 		"name": "God-King",
 		"type": "Pantheon",
-		"uniques": [
+		"uniques": [ // why is this not allowed if it's a global unique? curious
 			"[+5 Faith, +2 Gold, +2 Food, +2 Production, +2 Happiness, +2 Culture, +2 Science] [in capital] <before the [Modern era]>",
 			"[+10 Faith, +5 Gold, +5 Food, +5 Production, +5 Happiness, +5 Culture, +5 Science] [in capital] <starting from the [Modern era]>",
 			"[+5 Faith, +5 Gold, +5 Food, +5 Production, +5 Happiness, +5 Culture, +5 Science] [in other cities] <starting from the [Modern era]>"
@@ -47,8 +47,7 @@
 		"uniques": [
 			"When declaring friendship, both parties gain a [80]% boost to great people generation", 
 			"Resting point for influence with City-States following this religion [+25]", 
-			"[+33]% Natural religion spread [in foreign cities] <before the [Industrial era]>",
-			"[+69]% Natural religion spread [in foreign cities] <starting from the [Industrial era]>",
+			"[+100]% Natural religion spread [in foreign cities]",
 		]
 	},
 	

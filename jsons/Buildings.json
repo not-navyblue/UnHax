@@ -56,12 +56,12 @@
 				"color": "red"
 			}
 		],
-		"gold": 42069777,
-		"culture": 690,
-		"science": 777,
-		"food": 420,
-		"production": 690,
-		"happiness": 690,
+		"gold": 420697770,
+		"culture": 6900,
+		"science": 7777,
+		"food": 4200,
+		"production": 6900,
+		"happiness": 6900,
 		"greatPersonPoints": {
 			"Great Scientist": 60,
 			"Great Artist": 60,
@@ -69,10 +69,13 @@
 			"Great Engineer": 60
 		},
 		"specialistSlots": {
-			"Scientist": 10,
-			"Artist": 10,
-			"Merchant": 10,
-			"Engineer": 10,
+			"Scientist": 5,
+			"Artist": 5,
+			"Merchant": 5,
+			"Engineer": 5,
+			"Priest": 5,
+			"Entertainer": 5,
+			"Farmer": 5
 		},
 		"uniques": [
 			"[3] free [Founder] units appear",
@@ -193,6 +196,15 @@
 		]
 		"cityStrength": 365,
 		"cityHealth": 3650,
+		"specialistSlots": {
+			"Scientist": 5,
+			"Artist": 5,
+			"Merchant": 5,
+			"Engineer": 5,
+			"Priest": 5,
+			"Entertainer": 5,
+			"Farmer": 5
+		},
 		"uniques": [
 			"New [Military] units start with [420] Experience [in this city]",
 			"Melee units pay no movement cost to pillage",

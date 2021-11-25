@@ -1,4 +1,14 @@
 # UnHax Changelog
+## v1.15 (November 25, 2021 Update)
+*hax so good i'll [$?!?] myself!!!*
+### Major Changes
+- **Military** now provides 5 slots for all specialists
+- **Base** and **Military** now provide Priest, Entertainer, and Farmer slots when [*[Hyperlink Blocked]*](https://github.com/not-navyblue/SuperCiv) is the current base ruleset mod
+### Minor Changes
+- **Base**'s specialist slots are halved (from 10 to 5)
+- Multiplied **Base**'s stat generation by 10
+- Buffed the **Religious Diplomacy** Founder belief
+
 ## v1.14 (November 21, 2021 Update)
 *more hax more glory*
 ### Major Changes
