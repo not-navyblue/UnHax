@@ -1,4 +1,10 @@
 # UnHax Changelog
+## v1.16 (December? 2021 Update)
+*observe as i make the smallest update in unhax ever*
+### Minor Changes
+- Buffed the Khan to achieve parity with [*[Hyperlink Blocked]*](https://github.com/not-navyblue/SuperCiv)'s changes to said unit
+- **Enhancement** now allows players to access *[Hyperlink Blocked]*'s unit-exclusive promotions for all units
+
 ## v1.15 (November 25, 2021 Update)
 *hax so good i'll [$?!?] myself!!!*
 ### Major Changes

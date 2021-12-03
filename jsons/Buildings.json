@@ -222,6 +222,9 @@
 			"All newly-trained [{non-air} {Military}] units [in this city] receive the [Great Generals II] promotion",
 			"All newly-trained [{Fighter} {Military}] units [in this city] receive the [Great Generals II] promotion",
 			"All newly-trained [{Bomber} {Military}] units [in this city] receive the [Great Generals II] promotion",
+			"All newly-trained [{non-air} {Military}] units [in this city] receive the [Great Generals III] promotion",
+			"All newly-trained [{Fighter} {Military}] units [in this city] receive the [Great Generals III] promotion",
+			"All newly-trained [{Bomber} {Military}] units [in this city] receive the [Great Generals III] promotion",
 			"All newly-trained [{non-air} {Military}] units [in this city] receive the [Haka War Dance] promotion",
 			"All newly-trained [{Land} {Military}] units [in this city] receive the [Enhanced Vision] promotion",
 			"All newly-trained [{Water} {Military}] units [in this city] receive the [Better Wayfinding] promotion",
@@ -280,6 +283,7 @@
 			"Double quantity of [Uranium] produced",
 			"Tile yields from Natural Wonders doubled",
 			"Reveals the entire map",
+			"May buy [UnHax Mode - SuperCiv] buildings for [0] [Gold] [in this city]",
 			"Destroyed when the city is captured",
 			"Unbuildable",
 			"Unsellable"
