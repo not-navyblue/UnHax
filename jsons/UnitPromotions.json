@@ -110,15 +110,15 @@
 	{
 		"name": "Adaptive Warfare", // only for Khan
 		"uniques": [
-			"[+10]% Strength <during the Ancient era>",
-			"[+20]% Strength <during the Classical era>",
-			"[+30]% Strength <during the Medieval era>",
-			"[+50]% Strength <during the Renaissance era>",
-			"[+70]% Strength <during the Industrial era>",
-			"[+170]% Strength <during the Modern era>",
-			"[+220]% Strength <during the Atomic era>",
-			"[+350]% Strength <during the Information era>",
-			"[+400]% Strength <during the Future era>"
+			"[+10]% Strength <during the [Ancient era]>",
+			"[+20]% Strength <during the [Classical era]>",
+			"[+30]% Strength <during the [Medieval era]>",
+			"[+50]% Strength <during the [Renaissance era]>",
+			"[+70]% Strength <during the [Industrial era]>",
+			"[+170]% Strength <during the [Modern era]>",
+			"[+220]% Strength <during the [Atomic era]>",
+			"[+350]% Strength <during the [Information era]>",
+			"[+400]% Strength <during the [Future era]>"
 		]
-	},
+	}
 ]

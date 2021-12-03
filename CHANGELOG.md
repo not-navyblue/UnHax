@@ -1,4 +1,9 @@
 # UnHax Changelog
+## v1.16a (December 3, 2021 Update)
+*oops*
+### Bugfixes
+- Fixed a bug with Khan's unique unit promotion not functioning
+
 ## v1.16 (December 3, 2021 Update)
 *observe as i make the smallest update in unhax ever*
 ### Minor Changes
