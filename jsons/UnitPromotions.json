@@ -118,7 +118,9 @@
 			"[+170]% Strength <during the [Modern era]>",
 			"[+220]% Strength <during the [Atomic era]>",
 			"[+350]% Strength <during the [Information era]>",
-			"[+400]% Strength <during the [Future era]>"
+			"[+400]% Strength <during the [Future era]>",
+			"Incompatible with [Adaptive Tactics (Offense)]",
+			"Incompatible with [Adaptive Tactics (Defense)]"
 		]
 	}
 ]
