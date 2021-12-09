@@ -1,4 +1,9 @@
 # UnHax Changelog
+## v1.16b (December 9, 2021 Update)
+*ooops*
+### Bugfixes
+- Fixed a crash with the **Military** building
+
 ## v1.16a (December 3, 2021 Update)
 *oops*
 ### Bugfixes
