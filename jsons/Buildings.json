@@ -25,7 +25,8 @@
 				"text": "If you're in a new save and can't get the building directly, click this text. There should be instructions inside."
 				"link": "Buildings/UnHax Mode - Base"
 			},
-		]
+		],
+		"culture": 5,
 		"uniques": [
 			"Provides a [UnHax Mode - Base] in your first [1] cities for free",
 			"Can only be built [in capital]",
