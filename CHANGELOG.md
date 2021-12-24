@@ -1,4 +1,9 @@
 # UnHax Changelog
+## v1.17 (December 24, 2021 Update)
+*i forgot that free building from legalism works only on cultural buildings. oooops*
+### Major Changes
+- Added +5 Culture to **Original Method**
+
 ## v1.16b (December 9, 2021 Update)
 *ooops*
 ### Bugfixes
