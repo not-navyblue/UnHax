@@ -21,6 +21,7 @@ or adds a unique counterpart of it (which, hopefully, there is none). Compatible
 - Settlers and Great People can move immediately once bought
 - Mountain tiles do not inflict 50 tile damage to units
 - **Home Sweet Home** is buffed (UnHax: +40% vs. normal: +30%)
+- Near-unlimited XP from barbarians
 
 ### Buildings
 **UnHax Mode - Original Method**: a building made for any players, including the AIs, to obtain the **Base** building 
