@@ -1,0 +1,6 @@
+{
+	"constants": {
+		"maxXPfromBarbarians": 2147483647,
+		"ancientRuinCountMultiplier": 0.05
+	}
+}

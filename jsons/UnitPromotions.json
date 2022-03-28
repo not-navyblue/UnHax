@@ -21,7 +21,7 @@
 	{
 		"name": "Panacea's Gift",
 		"uniques": [
-			"Heals [40] damage if it kills an Unit",
+			"Heals [40] damage if it kills a unit",
 			"May heal outside of friendly territory",
 			"Unit will heal every turn, even if it performs an action",
 			"All healing effects doubled"
@@ -71,7 +71,7 @@
 		"uniques": [
 			"[+4] Range",
 			"[+4] Sight",
-			"6 tiles in every direction always visible"
+			"[+4] Sight", "Can see over obstacles"
 		]
 	},
 	
@@ -82,7 +82,7 @@
 			"Damage taken from interception reduced by [90]%",
 			"[+5] Range",
 			"[+4] Sight",
-			"6 tiles in every direction always visible",
+			"[+4] Sight", "Can see over obstacles",
 			"[Great General] is earned [80]% faster"
 		]
 	},
@@ -118,9 +118,7 @@
 			"[+170]% Strength <during the [Modern era]>",
 			"[+220]% Strength <during the [Atomic era]>",
 			"[+350]% Strength <during the [Information era]>",
-			"[+400]% Strength <during the [Future era]>",
-			"Incompatible with [Adaptive Tactics (Offense)]",
-			"Incompatible with [Adaptive Tactics (Defense)]"
+			"[+400]% Strength <during the [Future era]>"
 		]
 	}
 ]

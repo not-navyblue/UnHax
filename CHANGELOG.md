@@ -1,4 +1,11 @@
 # UnHax Changelog
+## v1.17a (March 28, 2022 Update)
+*it's been 3000 years...*
+### Minor Changes
+- Increased gained XP from barbarians to the signed 32-bit integer upper limit (2147483647)
+### Bugfixes
+- Updated to Unciv 4.0.1
+
 ## v1.17 (December 24, 2021 Update)
 *i forgot that free building from legalism works only on cultural buildings. oooops*
 ### Major Changes
