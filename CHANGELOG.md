@@ -1,4 +1,13 @@
 # UnHax Changelog
+## v1.17b (March 29, 2022 Update)
+*oops (1)*
+### Minor Changes
+- Changes to **Inspirational Wonders** belief:
+  - No longer grants doubled happiness from natural wonders
+  - Grants +10 Happiness instead of +5 Happiness
+### Bugfixes
+- Removed unused specialists that rendered the mod to be unplayable
+
 ## v1.17a (March 28, 2022 Update)
 *it's been 3000 years...*
 ### Minor Changes

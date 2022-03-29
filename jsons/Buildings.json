@@ -73,10 +73,7 @@
 			"Scientist": 5,
 			"Artist": 5,
 			"Merchant": 5,
-			"Engineer": 5,
-			"Priest": 5,
-			"Entertainer": 5,
-			"Farmer": 5
+			"Engineer": 5
 		},
 		"uniques": [
 			"[3] free [Founder] units appear",
@@ -95,7 +92,7 @@
 			"All newly-trained [{Fighter} {Military}] units [in this city] receive the [Home Sweet Home] promotion",
 			"All newly-trained [{Bomber} {Military}] units [in this city] receive the [Home Sweet Home] promotion",
 			"New [Military] units start with [69000] Experience [in all cities]",
-			"Units fight as though they were at full strength even when damaged",
+			"Damage is ignored when determining unit Strength <for [All] units>",
 			"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
 			"Provides a [UnHax Mode - Military] in your first [5] cities for free",
 			"[{non-air} {Military}] units gain the [Rejuvenation] promotion",
@@ -201,10 +198,7 @@
 			"Scientist": 5,
 			"Artist": 5,
 			"Merchant": 5,
-			"Engineer": 5,
-			"Priest": 5,
-			"Entertainer": 5,
-			"Farmer": 5
+			"Engineer": 5
 		},
 		"uniques": [
 			"New [Military] units start with [420] Experience [in this city]",
@@ -265,7 +259,7 @@
 			"Population loss from nuclear attacks [-300]% [in all cities]",
 			"[-100]% maintenance cost for buildings [in all cities]",
 			"[100]% maintenance on road & railroads",
-			"Embarked units can defend themselves",
+			"Defense bonus when embarked <for [All] units>",
 			"[{non-air} {Military}] units gain the [Capture Master] promotion",
 			"[{Aircraft} {Military}] units gain the [Capture Master] promotion",
 			"[{non-air} {Military}] units gain the [Quick Study] promotion",
