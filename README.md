@@ -1,41 +1,60 @@
 # UnHax
 An overpowered, building-based cheat mod for UnCiv. Really, that's it.<br>
-No "Sandbox" difficulty or overpowered nations included, but either from another mod can work just fine. 
-Human players can directly access the cheat buildings for free, while anyone, including 
-the AI Civs, can also utilize the original method of obtaining it. (Please read the **Base** 
-building's Civilopedia entry on how to do the original method.)<br>
+No "Sandbox" difficulty or overpowered nations included, but either from another mod can work just fine.<br>
+There is a simple method of obtaining the cheat buildings. (Please refer to the **Access** building's 
+in-game Civilopedia entry on how to obtain the buildings.)<br>
 
 Fair warning: Use at your own risk as this mod *can* ruin your experience.<br>
-If it did, then... what did you expect? It's a cheat mod, after all lol
+Don't complain if your experience has been ruined. This is a cheat mod, after all.
 
 ### Recommendation/s
 UnHax is best used with [Strategic Resource Visibility](https://github.com/not-navyblue/Strategic-Resource-Visibility) for the maximum UnCiv hax.
 
 ### Mod Compatibility
-- Starting with v1.13, the direct method of the **Base** building will blocked if there is any extension mod that modifies the Palace 
-or adds a unique counterpart of it (which, hopefully, there is none). Compatible base ruleset mods are exempted, however.
+- From v1.13 to v1.17b, the direct method of the **Base** building will be blocked if there is any extension mod that modifies the Palace 
+or adds a unique counterpart of it (which unfortunately existed). Compatible base ruleset mods are exempted, however.
+- Starting with v1.18 onwards, UnHax is now compatible with mods that replace the Palace again as the direct method has been removed.
+<br><br>
+- The following mods have some level of additional support aside for mere compatibility: **(Note: This is for v1.18 onwards.)**
+  - [Sullien's Future Expansion](https://github.com/Sullien/Future-Expansion):
+    - Great Spacefarer can now be directly bought with either one of the **Religion** buildings.
+    - Corporate Slots can now be directly purchased in non-capital cities starting from the Modern Era if **Enhancement** has been built.
+  - [shannaurelle's ph bonifacio unciv](https://github.com/shannaurelle/ph-bonifacio-unciv):
+    - The Katipunero has received the following changes:
+      - Strength increased to 39 from 24
+      - 80% chance to withdraw from an enemy melee attack
+      - Now obsoletes in Plastics and can upgrade to Infantry, but receives a 60% Strength increase when Replaceable Parts is discovered
+      - Receives free Shock & Drill I and Mobility promotions on top of the already given Woodsman promotion
+      - Movement increased to 3 from 2
+      - Is now a Gunpowder unit (it can now gain unit promotions with XP)
 
 ## What the mod contains
 ### Changes from Vanilla/G&K rulesets
-- Palace allows players to directly buy the **Base** building for free
-- Settlers and Great People can move immediately once bought
+- <s>Palace allows players to directly buy the **Base** building for free</s> **Removed in v1.18.**
+- Settlers and non-modded Great People can move immediately once bought
+- Mongolia's **Khan** is now a Military unit
 - Mountain tiles do not inflict 50 tile damage to units
+- The **Fountain of Youth** is now passable, counts as fresh water, and provides +5 Food on top of +10 Happiness
 - **Home Sweet Home** is buffed (UnHax: +40% vs. normal: +30%)
-- Near-unlimited XP from barbarians
+- Increased XP limit from barbarians
 
 ### Buildings
-**UnHax Mode - Original Method**: a building made for any players, including the AIs, to obtain the **Base** building 
-via the original method. Does not do anything else other than this simple purpose.
+**UnHax Mode - Access**: a building made for any players, including the AIs, to obtain the **Base** building using the 
+Legalism policy method. Does not do anything else other than this simple purpose. Also does not clog your construction
+queue as of v1.18.
 - Added in v1.13<br>
+- Fundamentally updated and renamed in v1.18
 
 **UnHax Mode - Base**: an "*almost* one-size-fits-all" building that provides many things such as gold, food, culture, 
 science, production, happiness, unit XP, and great person points (except Great General and Great Prophet), all in large 
 quantities, as well as some unit promotions that are otherwise exclusive or difficult to obtain, and extra specialist slots. 
-Limited to the capital city only, cannot be sold, and is destroyed when the capital falls. From v1.13 onwards, players have 
-the option to choose the direct method or the original method to acquire this building.
+Limited to the capital city only, cannot be sold, and is destroyed when the capital falls. <s>From v1.13 to v1.17b, players have 
+the option to choose the direct method or the original method to acquire this building.</s> **The direct method has been removed 
+as of v1.18.**
 - Added in v1.0
 - Renamed in v1.1
 - Method of acquisition updated in v1.13<br>
+- Method of acquisition reverted in v1.18<br>
 
 **UnHax Mode - Religion**: a building made specifically for religion-enabled games, generating Faith at large quantities, 
 and allows for immediate founding and enhancing of religions. It has similar limitations as the **Base** building, 
@@ -58,18 +77,19 @@ buying it with Gold once the **Base** building has been built in the capital.
 sans the requirement of the "Enable Religion" option. 
 - Added in v1.3<br>
 
-**Hackerman Palace** / **Ecalap**: two Palace replacement buildings that automatically unlock the **Base** building and build the 
+<s>**Hackerman Palace** / **Ecalap**: two Palace replacement buildings that automatically unlock the **Base** building and build the 
 **Military** building on all cities. Unique to Hack Land and Upside Down, respectively. **Hackerman Palace is intended to not have an icon.**
-- Added in v1.14<br>
+- Added in v1.14</s><br>
+- Removed in v1.18<br>
 
 ### Units
 #### **Founder**
 - Pseudo-Military Civilian Unit
 - 50 Strength
 - 10 Movement
-- Upgrades from Settler
 - Requires at least 4 population
 - All tiles cost 1 movement point
+- Unbuildable, but can be bought when **Base** is constructed
 - Uncapturable
 - Can move immediately after bought
 - Does not spawn as a Barbarian unit
@@ -135,7 +155,7 @@ sans the requirement of the "Enable Religion" option.
 
 ## Credits
 ### Icons
-- [**Base**/**Original Method**](https://icooon-mono.com/10991-display-pictogram/?lang=en), 
+- [**Base**/**Access**](https://icooon-mono.com/10991-display-pictogram/?lang=en), 
 [**Monotheistic/Polytheistic Religion**](https://icooon-mono.com/11966-pigeon-icon-2/?lang=en), 
 [**Military+**](https://icooon-mono.com/12221-ancient-greek-helmet-icon-3/?lang=en), 
 [**Enhancement**](https://icooon-mono.com/12266-arrow-up-icon-5/?lang=en), 
@@ -156,10 +176,11 @@ via [Flaticon](https://www.flaticon.com/authors/eucalyp)
 
 - [**Capture Master**](https://thenounproject.com/search/?q=net&i=429125) icon by [Mary Bowie](https://thenounproject.com/mvilam) from The Noun Project
 
-- [**Ecalap**](https://thenounproject.com/term/korean-palace/1797542) (original, unflipped) icon by [1516](https://thenounproject.com/1516.workroom) 
-from The Noun Project
+- <s>[**Ecalap**](https://thenounproject.com/term/korean-palace/1797542) (original, unflipped) icon by [1516](https://thenounproject.com/1516.workroom) 
+from The Noun Project</s> **Ecalap building has been removed in v1.18.**
 
 ### Others
 - Mod inspired by [paontv's "Difficulty_Sandbox" mod](https://github.com/paontv/Difficulty_Sandbox/), specifically the buildings
 
-###### *this readme will change over time
+###
+<font size = "1">note: this readme will change over time</font>

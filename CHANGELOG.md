@@ -1,4 +1,29 @@
 # UnHax Changelog
+## v1.18 (August 18, 2022 Update)
+*major revisions yay*
+### Major Changes
+- **Original Method** has been renamed into **Access**
+- The **Access** building no longer clogs your construction queue if Legalism hasn't been adopted yet
+- Additional support for [Future Expansion](https://github.com/Sullien/Future-Expansion) and [ph bonifacio unciv](https://github.com/shannaurelle/ph-bonifacio-unciv) has been added heheheha
+- Cultural Victory now requires all 7 Policy branches (assuming base game or base G&K) to be completed
+- **Founders** are no longer buildable and now require the **Base** building to be buyable (to prevent construction queue clogging)
+- Fountain of Youth is now passable, counts as fresh water, and additionally provides +5 Food
+- Great Prophets no longer need to not have spread religion at least once to build Holy Sites
+- **Base**'s capital-only Gold generation has been significantly reduced from 420697770 to 4206970 **(100× reduction!)**
+- Instant XP gain for new Military units has been significantly reduced from 69000 (**Base**) + 420 (**Military**) to 420 × 2 (**Base** + **Military**) **(82.6× reduction!)**
+- **Base** and **Access**'s in-game Civilopedia has been updated
+### Minor Changes
+- Buffed Great General and Khan's Strength bonuses from +15% to +35%
+- Buffed **Civilian Assistance**'s radius for Strength bonus from 2 tiles to 3 tiles
+- Buffed **Adaptive Warfare**'s era-based Strength bonus for eras before the Information era
+### Bugfixes
+- Uniques updated to latest version
+### Removed Features
+- Direct access has been removed, and the Legalism method is now the only way to get it
+- Removed the mod's changes to the Palace and its modded replacements
+- Settlers can no longer upgrade to **Founders** due to a change in the way **Founders** can be obtained
+- Non-air Military units no longer gain the Rejuvenation promotion when **Base** is constructed, but Aircraft units can still do
+
 ## v1.17b (March 29, 2022 Update)
 *oops (1)*
 ### Minor Changes
