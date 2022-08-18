@@ -12,5 +12,20 @@
 			"Always Fertility [-2] for Map Generation",
 			"Considered [Undesirable] when determining start locations"
 		]
-	}
+	},
+	{ // This will count as "Fresh water" in civ 6 (and in unhax)
+		"name": "Fountain of Youth",
+		"type": "NaturalWonder",
+		"happiness": 10,
+		"food": 5,
+		"overrideStats": true,
+		"occursOn": ["Plains"],
+		"turnsInto": "Plains",
+		"impassable": false,
+		"unbuildable": true,
+		"uniques": ["Must be adjacent to [0] [Coast] tiles", "Fresh water",
+			"Grants [Rejuvenation] ([all healing effects doubled]) to adjacent [{Military} {Land}] units for the rest of the game",
+			"Tile provides yield without assigned population"],
+		"weight": 1
+	},
 ]

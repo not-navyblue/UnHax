@@ -41,7 +41,7 @@
 		"name": "Civilian Assistance",
 		"uniques": [
 			"All adjacent units heal [60] extra HP when healing",
-			"Bonus for units in 2 tile radius 15%"
+			"[+15]% Strength bonus for [Military] units within [3] tiles"
 		]
 	},
 	
@@ -96,7 +96,7 @@
 	},
 	
 	// Uniques that should be kept on upgrades
-	// These are added in for compatibility	with RekMOD
+	// These are added in for compatibility with RekMOD
 	{
 		"name": "Pictish Courage", // only for Pictish Warrior and subsequent upgrades
 		"uniques": ["No movement cost to pillage", "[+20]% Strength <when fighting in [Foreign Land] tiles>"]
@@ -106,17 +106,18 @@
 		"uniques": ["[+40]% Strength decreasing with distance from the capital"]
 	},
 	
-	// These are added in for compatibility with [Hyperlink Blocked]
+	// These are added in for compatibility with a non-existent mod
+    // I have yet to give it an icon, but alas, I don't have a game.png & game.atlas regenerator yet
 	{
 		"name": "Adaptive Warfare", // only for Khan
 		"uniques": [
-			"[+10]% Strength <during the [Ancient era]>",
-			"[+20]% Strength <during the [Classical era]>",
-			"[+30]% Strength <during the [Medieval era]>",
-			"[+50]% Strength <during the [Renaissance era]>",
-			"[+70]% Strength <during the [Industrial era]>",
-			"[+170]% Strength <during the [Modern era]>",
-			"[+220]% Strength <during the [Atomic era]>",
+			"[+50]% Strength <during the [Ancient era]>",
+			"[+65]% Strength <during the [Classical era]>",
+			"[+75]% Strength <during the [Medieval era]>",
+			"[+90]% Strength <during the [Renaissance era]>",
+			"[+120]% Strength <during the [Industrial era]>",
+			"[+200]% Strength <during the [Modern era]>",
+			"[+300]% Strength <during the [Atomic era]>",
 			"[+350]% Strength <during the [Information era]>",
 			"[+400]% Strength <during the [Future era]>"
 		]
