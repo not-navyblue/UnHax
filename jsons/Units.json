@@ -4,7 +4,6 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 106,
-		"upgradesTo": "Founder",
 		"uniques": [
 			"Founds a new city", 
 			"Excess Food converted to Production when under construction",
@@ -29,7 +28,8 @@
 			"All tiles cost 1 movement",
 			"Never appears as a Barbarian unit", 
 			"Cannot attack", 
-			"Unable to capture cities"
+			"Unable to capture cities",
+			"Unbuildable"
 		],
 		"promotions": [
 			"Founder's Frontier",
@@ -98,7 +98,7 @@
 		"name": "Great Prophet",
 		"unitType": "Civilian",
 		"uniques": [
-			"Can construct [Holy site] if it hasn't used other actions yet", 
+			"Can construct [Holy site]", 
 			"Can [Spread Religion] [4] times",
 			"Removes other religions when spreading religion", 
 			"May found a religion", 
@@ -121,7 +121,7 @@
 		"unitType": "Civilian",
 		"uniques": [
 			"Can start an [8]-turn golden age", 
-			"Bonus for units in 2 tile radius 15%", 
+			"[+35]% Strength bonus for [Military] units within [2] tiles", 
 			"Can construct [Citadel]",
 			"Great Person - [War]", 
 			"Can move immediately once bought", 
@@ -139,7 +139,7 @@
 		"strength": 20,
 		"uniques": [
 			"Can start an [8]-turn golden age",
-			"Bonus for units in 2 tile radius 15%",
+			"[+35]% Strength bonus for [Military] units within [2] tiles", 
 			"All adjacent units heal [+30] HP when healing", 
 			"[+15] HP when healing", 
 			"Can construct [Citadel]", 
@@ -150,5 +150,26 @@
 		],
 		"promotions": ["Medic II", "Adaptive Warfare"],
 		"movement": 6
+	},
+	
+	// Mod Support goes here
+	// ph bonifacio unciv
+	{
+		"name": "Katipunero",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Philippines",
+		"replaces": "Rifleman",
+		"strength": 39,
+		"cost": 180,
+		"upgradesTo": "Infantry",
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Plastics",
+		"uniques": [
+			"May withdraw before melee ([80]%)",
+			"[+60]% Strength <after discovering [Replaceable Parts]>",
+		],
+		"promotions": ["Woodsman", "Shock I", "Drill I", "Mobility"],
+		"movement": 3,
+		"hurryCostModifier": -10
 	}
 ]

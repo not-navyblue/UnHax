@@ -1,5 +1,5 @@
 [
-	{
+	/*{
 		"name": "Palace",
 		"isNationalWonder": true,
 		"production": 3,
@@ -10,34 +10,38 @@
 		"cost": 1,
 		"uniques": [
 			"Indicates the capital city", 
-			"May buy [UnHax Mode - Base] buildings for [0] [Gold] [in this city]"
+			"May buy [UnHax Mode - Base] buildings for [0] [Gold] [in this city]",
+			"Provides [1] [Corporate Slot] <after discovering [Corporations]> <in cities without a [No Corporation]>",
+			"Provides [1] [Corporate Slot(Total)] <after discovering [Corporations]> <in cities without a [No Corporation]>"
 		]
-	},
+	},*/
 	
 	{
-		"name": "UnHax Mode - Original Method"
+		"name": "UnHax Mode - Access"
 		"civilopediaText": [
-			{
-				"text": "This is normally for AI Civs only, but anyone can get this to unlock the Base building via the original method.",
+		    {
+				"text": "The gateway of UnHax, it allows every players, AI included, to access the extreme amount of cheats that cannot be accessed immediately."
 				"starred": true
-			},
+		    },
 			{
-				"text": "If you're in a new save and can't get the building directly, click this text. There should be instructions inside."
-				"link": "Buildings/UnHax Mode - Base"
-			},
+				"text": "Direct access to the Base building has been removed as of v1.18. You can obtain the cheats by adopting the Legalism social policy, provided there are no other \"cultural\" buildings (buildings that provide Culture, and are not wonders) available for construction.",
+				"starred": true,
+				"color": "red"
+			}
 		],
 		"culture": 5,
 		"uniques": [
 			"Provides a [UnHax Mode - Base] in your first [1] cities for free",
 			"Can only be built [in capital]",
 			"Only available <in cities without a [UnHax Mode - Base]>",
+			"Only available <after adopting [Legalism]>",
 			"Destroyed when the city is captured",
 			"Triggers a global alert upon completion",
 			"Cannot be bought",
 			"Unsellable"
 		]
 		"cost": 696969420,
-		"hurryCostModifier": 420
+		"hurryCostModifier": -100
 	},
 
 	{
@@ -46,18 +50,9 @@
 			{
 				"text": "The main building; it is an \"almost one-size-fits-all\" building that provides many things such as all stats except Faith, unit XP, and great person points (except Great General and Great Prophet), all in large quantities, as well as some unit promotions that are otherwise exclusive or difficult to obtain, and extra specialist slots. Limited to the capital city only, cannot be sold, and is destroyed when the capital falls.",
 				"starred": true
-			},
-			{
-				"text": "Human players can freely obtain this by directly buying, while the AI has to do it the original way due to limitations. When bought, however, it does not display a global notification.",
-				"starred": true
-			},
-			{
-				"text": "Direct access to this building can be blocked if the game is played with another mod that gives a unique version of the Palace or replace it. If that's the case, obtain this building via the original method of getting the Legalism social policy, provided there are no \"cultural\" buildings (buildings that provide Culture, and are not wonders) available for construction.",
-				"starred": true,
-				"color": "red"
 			}
 		],
-		"gold": 420697770,
+		"gold": 4206970,
 		"culture": 6900,
 		"science": 7777,
 		"food": 4200,
@@ -88,14 +83,14 @@
 			"May buy [UnHax Mode - Monotheistic Religion] buildings for [0] [Gold] [in this city]",
 			"May buy [UnHax Mode - Polytheistic Religion] buildings for [0] [Gold] [in this city]",
 			"May buy [UnHax Mode - Enhancement] buildings for [0] [Gold] [in this city]",
+			"May buy [Founder] units for [10000000] [Gold] [in all cities]",
 			"All newly-trained [{non-air} {Military}] units [in this city] receive the [Home Sweet Home] promotion",
 			"All newly-trained [{Fighter} {Military}] units [in this city] receive the [Home Sweet Home] promotion",
 			"All newly-trained [{Bomber} {Military}] units [in this city] receive the [Home Sweet Home] promotion",
-			"New [Military] units start with [69000] Experience [in all cities]",
+			"New [Military] units start with [420] Experience [in all cities]",
 			"Damage is ignored when determining unit Strength <for [All] units>",
 			"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
 			"Provides a [UnHax Mode - Military] in your first [5] cities for free",
-			"[{non-air} {Military}] units gain the [Rejuvenation] promotion",
 			"[{Fighter} {Military}] units gain the [Rejuvenation] promotion",
 			"[{Bomber} {Military}] units gain the [Rejuvenation] promotion",
 			"[Civilian] units gain the [Civilian Assistance] promotion",
@@ -135,6 +130,7 @@
 			"May buy [Great Merchant] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
 			"May buy [Great Engineer] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
 			"May buy [Great General] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
+			"May buy [Great Spacefarer] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])", // Future Expansion
 			"[Faith] cost of purchasing [Civilian] units [-75]%"
 			"[+1000 Faith] [in all cities]",
 			"Only available <in cities without a [UnHax Mode - Monotheistic Religion]>",
@@ -172,6 +168,7 @@
 			"May buy [Great Merchant] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
 			"May buy [Great Engineer] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
 			"May buy [Great General] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
+			"May buy [Great Spacefarer] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])", // Future Expansion
 			"[Faith] cost of purchasing [Civilian] units [-75]%"
 			"[+1000 Faith] [in all cities]",
 			"Only available <in cities without a [UnHax Mode - Polytheistic Religion]>",
@@ -273,9 +270,10 @@
 			"Double quantity of [Oil] produced",
 			"Double quantity of [Aluminum] produced",
 			"Double quantity of [Uranium] produced",
-			"Tile yields from Natural Wonders doubled",
+			"[+100]% Yield from every [Natural Wonder]",
 			"Reveals the entire map",
-			"May buy [UnHax Mode - SuperCiv] buildings for [0] [Gold] [in this city]",
+			"May buy [UnHax Mode - SuperCiv] buildings for [0] [Gold] [in this city]", // mod is no longer functional
+            "May buy [Corporate Slot] buildings for [69420] [Gold] [in all cities] <in cities without a [Palace]> <starting from the [Modern era]>", // Future Expansion
 			"Destroyed when the city is captured",
 			"Unbuildable",
 			"Unsellable"
@@ -284,8 +282,11 @@
 		"cost": 0
 	}
 	
-	// Unique Replacements
-	{
+	
+	// Removed Mod Support
+	/*
+	// hack land
+    {
 		"name": "Hackerman Palace",
 		"isNationalWonder": true,
 		"uniqueTo": "Hack Land",
@@ -299,10 +300,13 @@
 		"uniques": [
 			"Indicates the capital city",
 			"Gain a free [UnHax Mode - Base] [in this city]",
-			"Gain a free [UnHax Mode - Military] [in all cities]"
+			"Gain a free [UnHax Mode - Military] [in all cities]",
+			"Provides [1] [Corporate Slot] <after discovering [Corporations]> <in cities without a [No Corporation]>",
+			"Provides [1] [Corporate Slot(Total)] <after discovering [Corporations]> <in cities without a [No Corporation]>"
 		]
 	},
 	
+	// Upside Down
 	{
 		"name": "Ecalap",
 		"isNationalWonder": true,
@@ -317,7 +321,10 @@
 		"uniques": [
 			"Indicates the capital city",
 			"Gain a free [UnHax Mode - Base] [in this city]",
-			"Gain a free [UnHax Mode - Military] [in all cities]"
+			"Gain a free [UnHax Mode - Military] [in all cities]",
+			"Provides [1] [Corporate Slot] <after discovering [Corporations]> <in cities without a [No Corporation]>",
+			"Provides [1] [Corporate Slot(Total)] <after discovering [Corporations]> <in cities without a [No Corporation]>"
 		]
 	}
+    */
 ]
