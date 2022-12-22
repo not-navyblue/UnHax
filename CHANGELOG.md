@@ -1,4 +1,9 @@
 # UnHax Changelog
+## v1.18a (December 22, 2022 Update)
+*brb*
+### Removed Features + Bugfixes
+- Removed two uniques which caused the mod to have some scary red errors
+  * This included the ability to directly buy Corporate Slots in games loaded with Future Expansion
 ## v1.18 (August 18, 2022 Update)
 *major revisions yay*
 ### Major Changes
