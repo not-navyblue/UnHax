@@ -18,7 +18,7 @@ or adds a unique counterpart of it (which unfortunately existed). Compatible bas
 - The following mods have some level of additional support aside for mere compatibility: **(Note: This is for v1.18 onwards.)**
   - [Sullien's Future Expansion](https://github.com/Sullien/Future-Expansion):
     - Great Spacefarer can now be directly bought with either one of the **Religion** buildings.
-    - Corporate Slots can now be directly purchased in non-capital cities starting from the Modern Era if **Enhancement** has been built.
+    - <s>Corporate Slots can now be directly purchased in non-capital cities starting from the Modern Era if **Enhancement** has been built.</s> **Removed as of v1.18a.**
   - [shannaurelle's ph bonifacio unciv](https://github.com/shannaurelle/ph-bonifacio-unciv):
     - The Katipunero has received the following changes:
       - Strength increased to 39 from 24
