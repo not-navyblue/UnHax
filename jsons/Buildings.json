@@ -17,10 +17,10 @@
 	},*/
 	
 	{
-		"name": "UnHax Mode - Access"
+		"name": "UnHax Mode - Access",
 		"civilopediaText": [
 		    {
-				"text": "The gateway of UnHax, it allows every players, AI included, to access the extreme amount of cheats that cannot be accessed immediately."
+				"text": "The gateway of UnHax, it allows every players, AI included, to access the extreme amount of cheats that cannot be accessed immediately.",
 				"starred": true
 		    },
 			{
@@ -37,13 +37,12 @@
 			"Only available <after adopting [Legalism]>",
 			"Destroyed when the city is captured",
 			"Triggers a global alert upon completion",
-			"Cannot be bought",
+			"Cannot be purchased",
 			"Unsellable"
-		]
+		],
 		"cost": 696969420,
 		"hurryCostModifier": -100
 	},
-
 	{
 		"name": "UnHax Mode - Base",
 		"civilopediaText": [
@@ -85,17 +84,16 @@
 			"May buy [UnHax Mode - Enhancement] buildings for [0] [Gold] [in this city]",
 			"May buy [Founder] units for [10000000] [Gold] [in all cities]",
 			"All newly-trained [{non-air} {Military}] units [in this city] receive the [Home Sweet Home] promotion",
-			"All newly-trained [{Fighter} {Military}] units [in this city] receive the [Home Sweet Home] promotion",
-			"All newly-trained [{Bomber} {Military}] units [in this city] receive the [Home Sweet Home] promotion",
+			"All newly-trained [Fighter] units [in this city] receive the [Home Sweet Home] promotion",
+			"All newly-trained [Bomber] units [in this city] receive the [Home Sweet Home] promotion",
 			"New [Military] units start with [420] Experience [in all cities]",
 			"Damage is ignored when determining unit Strength <for [All] units>",
-			"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
 			"Provides a [UnHax Mode - Military] in your first [5] cities for free",
-			"[{Fighter} {Military}] units gain the [Rejuvenation] promotion",
-			"[{Bomber} {Military}] units gain the [Rejuvenation] promotion",
+			"[Fighter] units gain the [Rejuvenation] promotion",
+			"[Bomber] units gain the [Rejuvenation] promotion",
 			"[Civilian] units gain the [Civilian Assistance] promotion",
 			"[{Land} {Civilian}] units gain the [Enhanced Vision] promotion",
-			"[{Water} {Civilian}] units gain the [Better Wayfinding] promotion",
+			"[Civilian Water] units gain the [Better Wayfinding] promotion",
 			"Destroyed when the city is captured",
 			"Can only be built [in capital]",
 			"Triggers a global alert upon completion",
@@ -116,7 +114,7 @@
 				"text": "This is the Polytheistic variant of the twin Religion buildings. It provides nearly the same bonuses as the pre-v1.10 Religion building.",
 				"starred": true
 			}
-		]
+		],
 		"faith": 1000,
 		"uniques": [
 			"[2] free [Great Prophet] units appear",
@@ -131,7 +129,7 @@
 			"May buy [Great Engineer] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
 			"May buy [Great General] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
 			"May buy [Great Spacefarer] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])", // Future Expansion
-			"[Faith] cost of purchasing [Civilian] units [-75]%"
+			"[Faith] cost of purchasing [Civilian] units [-75]%",
 			"[+1000 Faith] [in all cities]",
 			"Only available <in cities without a [UnHax Mode - Monotheistic Religion]>",
 			"Hidden when religion is disabled",
@@ -154,7 +152,7 @@
 				"text": "This is the Monotheistic variant of the twin Religion buildings. It provides different additional belief slots, but is otherwise similar to the Polytheistic variant.",
 				"starred": true
 			}
-		]
+		],
 		"faith": 1000,
 		"uniques": [
 			"[2] free [Great Prophet] units appear",
@@ -169,7 +167,7 @@
 			"May buy [Great Engineer] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
 			"May buy [Great General] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])",
 			"May buy [Great Spacefarer] units for [100] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50])", // Future Expansion
-			"[Faith] cost of purchasing [Civilian] units [-75]%"
+			"[Faith] cost of purchasing [Civilian] units [-75]%",
 			"[+1000 Faith] [in all cities]",
 			"Only available <in cities without a [UnHax Mode - Polytheistic Religion]>",
 			"Hidden when religion is disabled",
@@ -180,7 +178,6 @@
 		"maintenance": 7777,
 		"cost": 0
 	},
-	
 	{
 		"name": "UnHax Mode - Military",
 		"civilopediaText": [
@@ -188,7 +185,7 @@
 				"text": "A military-oriented building that provides free unit promotions not provided (or previously provided) by the main building, increased city strength and city health, and others. It has similar limitations as the Religion building, but unlike the first two buildings, it can be built on all cities by buying it with Gold once the main building has been built in the capital.",
 				"starred": true
 			}
-		]
+		],
 		"cityStrength": 365,
 		"cityHealth": 3650,
 		"specialistSlots": {
@@ -231,7 +228,6 @@
 		"maintenance": 357,
 		"cost": 0
 	},
-	
 	{
 		"name": "UnHax Mode - Enhancement", 
 		"civilopediaText": [
@@ -239,7 +235,7 @@
 				"text": "A building with assorted bonuses to build on the already plentiful additions provided by Military, Religion, and the main buildings. It shares multiple limitations and mode of acquisition with the Religion building, except for the requirement of the \"Enable Religion\" option.",
 				"starred": true
 			}
-		]
+		],
 		"uniques": [
 			"Free Technology", 
 			"[+120]% [Gold] [in all cities]",
