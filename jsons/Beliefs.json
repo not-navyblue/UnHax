@@ -8,7 +8,6 @@
 			"+[50]% Strength for units fighting in [Water] tiles"
 		]
 	},
-	
 	{
 		"name": "The Frozen Mother",
 		"type": "Pantheon",
@@ -19,7 +18,6 @@
 			"+[50]% Strength for units fighting in [Tundra] tiles"
 		]
 	},
-	
 	{
 		"name": "Scorching Saint",
 		"type": "Pantheon",
@@ -29,28 +27,26 @@
 			"[+5 Gold, +5 Food, +5 Faith] from every [Desert]",
 			"+[50]% Strength for units fighting in [Desert] tiles"
 		]
-	}
-	
+	},
 	{
 		"name": "God-King",
 		"type": "Pantheon",
 		"uniques": [
-			"[+5 Faith, +2 Gold, +2 Food, +2 Production, +2 Happiness, +2 Culture, +2 Science] <in cities with a [Palace]> <before the [Modern era]>",
-			"[+10 Faith, +5 Gold, +5 Food, +5 Production, +5 Happiness, +5 Culture, +5 Science] <in cities with a [Palace]> <starting from the [Modern era]>",
-			"[+5 Faith, +5 Gold, +5 Food, +5 Production, +5 Happiness, +5 Culture, +5 Science] [in other cities] <starting from the [Modern era]>"
+			"[+5 Faith, +2 Gold, +2 Food, +2 Production, +2 Happiness, +2 Culture, +2 Science] from every [Palace] <before the [Modern era]>",
+			"[+10 Faith, +5 Gold, +5 Food, +5 Production, +5 Happiness, +5 Culture, +5 Science] from every [Palace] <starting from the [Modern era]>",
+			"[+5 Faith, +5 Gold, +5 Food, +5 Production, +5 Happiness, +5 Culture, +5 Science] [in cities following this religion] <starting from the [Modern era]>"
 		]
 	},
-	
+
 	{
 		"name": "Religious Diplomacy",
 		"type": "Founder",
 		"uniques": [
 			"When declaring friendship, both parties gain a [80]% boost to great person generation", 
 			"Resting point for Influence with City-States following this religion [+25]", 
-			"[+100]% Natural religion spread [in foreign cities]",
+			"[+100]% Natural religion spread [in foreign cities]"
 		]
 	},
-	
 	{
 		"name": "Prophet's Leadership",
 		"type": "Founder",
@@ -72,19 +68,17 @@
 			"[+1 Food, +2 Science, +3 Production, +4 Faith, +5 Gold, +6 Culture, +7 Happiness] from every [Wonder]"
 		]
 	},
-	
 	{
 		"name": "Golden Enlightenment",
 		"type": "Follower",
 		"uniques": [
 			"[+3 Faith, +3 Happiness, +3 Gold, +3 Culture] from every [Gold Ore]", 
 			"[+100]% Natural religion spread [in all cities]",
-			"[+10 Gold]",
-			"[+5 Gold] <after discovering [Theology]>",
-			"[+5 Gold] <after discovering [Printing Press]>",
+			"[+10 Gold] [in holy cities]",
+			"[+5 Gold] [in holy cities] <after discovering [Theology]>",
+			"[+5 Gold] [in holy cities] <after discovering [Printing Press]>"
 		]
 	},
-	
 	{
 		"name": "Hopeful Habitability",
 		"type": "Follower",
@@ -105,7 +99,6 @@
 			"[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <starting from the [Renaissance era]>",
 		]
 	},
-	
 	{
 		"name": "Widespread Preachers",
 		"type": "Enhancer",
@@ -116,7 +109,6 @@
 			"[+4] Movement for all [Missionary] units"
 		]
 	},
-	
 	{
 		"name": "Naturalists",
 		"type": "Enhancer",
